@@ -8,7 +8,7 @@ header_image_description: Our 2017 PACE group in Victoria
 
 ### PACE 2020: Update
 
-After careful consideration, and the uncertain times ahead, the PACE 2020 trip has been cancelled. We are devastated to not host this year, but out of an abundance of caution and safety we believe it is necessary to postpone this year. Please watch our website in early 2021 for the next trip. Thank you for understanding.
+After careful consideration, and the uncertain times ahead, the PACE 2020 trip has been cancelled. We are devastated to not host this year, but out of an abundance of caution and safety we believe it is necessary to postpone this year. Please watch our website in early 2021 for the next trip. Thank you for understanding. EDIT ME OUT
 
 ### PACE 2020: August 20 – August 31
 
