@@ -3,6 +3,7 @@
     <div class="wrapper">
       {%- assign default_paths = site.pages | map: "path" -%}
       {%- assign page_paths = site.header_pages | default: default_paths -%}
+      {%- assign club_paths = site.clubs | map: "path" -%}
       <a class="site-title centered-header" rel="author" href="{{ "/" | relative_url }}">
         <img src="{{ site.logo_image }}" alt="{{ site.title }}">
       </a>
@@ -19,6 +20,26 @@
           </label>
   
           <div class="trigger">
+            <!-- TODO: needs some visual indication these are dropdowns (e.g. fa-caret-down) -->
+            <!-- TODO: these need to work with mobile nav menu -->
+
+            <!-- CLUBS -->
+            {%- if club_paths -%}
+            <div class="dropdown">
+              <!-- TODO: shouldn't be a link (i.e. shouldn't appear clickable) -->
+              <a class="page-link" href="#">Clubs</a>
+              <div class="dropdown-content">
+              {%- for path in club_paths -%}
+                {%- assign my_club = site.clubs | where: "path", path | first -%}
+                {%- if my_club.title -%}
+                <a href="{{ my_club.url | relative_url }}">{{ my_club.title | escape }}</a>
+                {%- endif -%}
+              {%- endfor -%}
+              </div>
+            </div>
+            {%- endif -%}
+
+            
             {%- for path in page_paths -%}
               {%- assign my_page = site.pages | where: "path", path | first -%}
               {%- if my_page.title -%}

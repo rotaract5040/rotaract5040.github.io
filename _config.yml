@@ -16,6 +16,10 @@ theme: minima
 plugins:
   - jekyll-feed
 
+collections:
+  clubs:
+    output: true  # We want a page for each club!
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
