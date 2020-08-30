@@ -1,3 +1,7 @@
-# Rotaract 5040 District Site
+# Rotaract District 5040 Site
 
-MVP of the district site re-write.
+Informational website for Rotaract District 5040 (currently a work-in-progress.)
+
+## Running Locally
+
+```bundle exec jekyll serve```
