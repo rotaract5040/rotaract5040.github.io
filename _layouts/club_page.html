@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<div class="club-page">
+  <h1>{{ page.title }}</h1>
+  <!-- TODO: have good fallback if these aren't set! -->
+  <p>{{ page.club_info.who_we_are | markdownify }}</p>
+  <p>{{ page.club_info.what_we_do | markdownify }}</p>
+  <p>{{ page.club_info.meetings | markdownify }}</p>
+  {{ page.embedded_calendar }}
+  <h2>Contact Us</h2>
+  {{ page.embedded_map }}
+</div>
+
