@@ -5,13 +5,21 @@ layout: default
     {%- for member in site.committee_members -%}
     <div class="individual-member">  
       <a href="{{ member.permalink | relative_url }}">
-        <div>
-          <img src="{{ member.img }}" alt="{{ member.name }}" />
-          {{ member.name }}
-          {{ member.committee_title }}
-        </div>
+          <img src="/assets/images/committee-members/{{ member.title }}-small.jpg" alt="{{ member.name }}" />
       </a>
+      <div class="member-details">
+        <a href="{{ member.permalink | relative_url }}"><h3>{{ member.name }}</h3></a>
+        <p>{{ member.committee_title }}</p>
+
+        <div class="social-media">
+        {%- for detail in member.details -%}
+          <a href="{{ detail[1] }}">
+            <i class="fa fa-{{ detail[0] }}"></i>
+          </a>
+        {%- endfor -%}
+        </div>
       </div>
+    </div>
     {%- endfor -%}
 </div>
 </article>

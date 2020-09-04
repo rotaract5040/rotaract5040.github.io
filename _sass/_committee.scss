@@ -1,0 +1,53 @@
+.district-committee-list {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  flex-flow: row wrap;
+}
+
+.individual-member {
+  max-width: 45%;
+  padding: 10px;
+  
+  img {
+    width: 100%;
+    max-width: 450px;
+  }
+  
+  a:hover {
+    text-decoration: none;
+  }
+
+  p {
+    color: $brand-color;
+    font-weight: bold;
+  }
+
+  h3 {
+    font-weight: normal;
+  }
+
+  .member-details {
+    text-align: center;
+    padding: 20px 0;
+    background-color: $light-grey-background;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: column wrap;
+
+    .social-media {
+      a {
+        background-color: #85868c;
+        padding: 5px;
+        border-radius: 25px;
+
+      }
+
+      .fa {
+        color: #ffffff;
+      }
+    }
+    
+  }
+}
