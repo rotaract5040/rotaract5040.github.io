@@ -18,7 +18,10 @@ plugins:
 collections:
   clubs:
     output: true  # We want a page for each club!
-
+  committee_members:
+      output: true
+    about:
+      output: true
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

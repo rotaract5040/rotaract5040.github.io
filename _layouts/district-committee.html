@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<div class="district-committee-list">
+    {%- for member in site.committee_members -%}
+    <div class="individual-member">  
+      <a href="{{ member.permalink | relative_url }}">
+        <div>
+          <img src="{{ member.img }}" alt="{{ member.name }}" />
+          {{ member.name }}
+          {{ member.committee_title }}
+        </div>
+      </a>
+      </div>
+    {%- endfor -%}
+</div>
+</article>
