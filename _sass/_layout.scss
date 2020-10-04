@@ -228,6 +228,29 @@
     }
   }
   
+  .page-banner {
+    display: flex;
+    background-color: #f7f7f7;
+    align-items: center;
+    justify-content: center;
+    flex-flow: column wrap;
+    min-height: 180px;      
+    
+    @include media-query($on-palm) {
+      min-height: 70px;
+    }
+
+    .page-title {
+      text-transform: uppercase;
+      color: $brand-color;
+      font: normal bold 30px / 40px "Open Sans", Helvetica, Arial, Verdana, sans-serif;
+
+      @include media-query($on-palm) {
+        font-size: 24px;
+      }
+    }
+  }
+  
   .page-heading {
     @include relative-font-size(2);
   }
