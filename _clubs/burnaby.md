@@ -34,7 +34,7 @@ club_info:
     meetings: |
         Regular Club meetings are held at 7:00pm bi-monthly on the 2nd and 4th Monday of each month. We meet at the Burnaby Neighbourhood House (3rd Floor, 4460 Beresford Street). This is right behind the Metrotown SkyTrain station.
 embedded_calendar: |
-    <iframe src="https://calendar.google.com/calendar/embed?src=info%40burnabyrotaract.org&amp;ctz=America%2FVancouver" style="border: 0" scrolling="no" width="800" height="600" frameborder="0"></iframe>
+    <iframe src="https://calendar.google.com/calendar/embed?src=info%40burnabyrotaract.org&amp;ctz=America%2FVancouver" style="border: 0" scrolling="no" width="100%" height="600" frameborder="0"></iframe>
 embedded_map: |
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2605.691357705569!2d-123.00653858428404!3d49.22538017932514!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x410b7f3f71654fdf%3A0x6823eff1bd41a100!2sBurnaby+Neighbourhood+House!5e0!3m2!1spt-BR!2sca!4v1509994912768" style="border: 0px none; pointer-events: none;" allowfullscreen="" width="600" height="600" frameborder="0"></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2605.691357705569!2d-123.00653858428404!3d49.22538017932514!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x410b7f3f71654fdf%3A0x6823eff1bd41a100!2sBurnaby+Neighbourhood+House!5e0!3m2!1spt-BR!2sca!4v1509994912768" style="border: 0px none; pointer-events: none;" allowfullscreen="" width="100%" height="600" frameborder="0"></iframe>
 ---

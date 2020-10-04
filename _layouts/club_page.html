@@ -3,13 +3,41 @@ layout: default
 ---
 
 <div class="club-page">
+
   <h1>{{ page.title }}</h1>
-  <!-- TODO: have good fallback if these aren't set! -->
-  <p>{{ page.club_info.who_we_are | markdownify }}</p>
-  <p>{{ page.club_info.what_we_do | markdownify }}</p>
-  <p>{{ page.club_info.meetings | markdownify }}</p>
-  {{ page.embedded_calendar }}
+
+  <div class="row">
+    <div class="col-4">
+      <div class="list-group" id="list-tab" role="tablist">
+        <a class="list-group-item list-group-item-action active" id="list-who-list" data-toggle="list" href="#list-who" role="tab" aria-controls="who">Who We Are</a>
+        <a class="list-group-item list-group-item-action" id="list-what-list" data-toggle="list" href="#list-what" role="tab" aria-controls="what">What We Do</a>
+        <a class="list-group-item list-group-item-action" id="list-meetings-list" data-toggle="list" href="#list-meetings" role="tab" aria-controls="meetings">Meetings</a>
+      </div>
+    </div>
+    <div class="col-8">
+      <div class="tab-content" id="nav-tabContent">
+        <div class="tab-pane fade show active" id="list-who" role="tabpanel" aria-labelledby="list-who-list">{{ page.club_info.who_we_are | markdownify }}</div>
+        <div class="tab-pane fade" id="list-what" role="tabpanel" aria-labelledby="list-what-list">{{ page.club_info.what_we_do | markdownify }}</div>
+        <div class="tab-pane fade" id="list-meetings" role="tabpanel" aria-labelledby="list-meetings-list">
+          {{ page.club_info.meetings | markdownify }}
+          {{ page.embedded_calendar }}
+        </div>
+      </div>
+    </div>
+  </div>
+
+
   <h2>Contact Us</h2>
+
+  <ul class="social-network social-circle">
+    <li><a href="#" title="Rss"><i class="fa fa-rss"></i></a></li>
+    <li><a href="https://www.facebook.com/BurnabyRotaract" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+    <li><a href="#" title="Twitter"><i class="fa fa-twitter"></i></a></li>
+    <li><a href="#" title="Google +"><i class="fa fa-google-plus"></i></a></li>
+    <li><a href="#" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
+    <li><a href="mailto:rotaract@example.com" title="Email"><i class="fa fa-envelope"></i></a></li>
+  </ul>		
+
   {{ page.embedded_map }}
 </div>
 
