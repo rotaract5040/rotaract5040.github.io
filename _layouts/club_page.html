@@ -16,8 +16,12 @@ layout: default
     </div>
     <div class="col-8">
       <div class="tab-content" id="nav-tabContent">
-        <div class="tab-pane fade show active" id="list-who" role="tabpanel" aria-labelledby="list-who-list">{{ page.club_info.who_we_are | markdownify }}</div>
-        <div class="tab-pane fade" id="list-what" role="tabpanel" aria-labelledby="list-what-list">{{ page.club_info.what_we_do | markdownify }}</div>
+        <div class="tab-pane fade show active" id="list-who" role="tabpanel" aria-labelledby="list-who-list">
+          {{ page.club_info.who_we_are | markdownify }}
+        </div>
+        <div class="tab-pane fade" id="list-what" role="tabpanel" aria-labelledby="list-what-list">
+          {{ page.club_info.what_we_do | markdownify }}
+        </div>
         <div class="tab-pane fade" id="list-meetings" role="tabpanel" aria-labelledby="list-meetings-list">
           {{ page.club_info.meetings | markdownify }}
           {{ page.embedded_calendar }}
@@ -29,15 +33,28 @@ layout: default
 
   <h2>Contact Us</h2>
 
-  <ul class="social-network social-circle">
-    <li><a href="#" title="Rss"><i class="fa fa-rss"></i></a></li>
-    <li><a href="https://www.facebook.com/BurnabyRotaract" title="Facebook"><i class="fa fa-facebook"></i></a></li>
-    <li><a href="#" title="Twitter"><i class="fa fa-twitter"></i></a></li>
-    <li><a href="#" title="Google +"><i class="fa fa-google-plus"></i></a></li>
-    <li><a href="#" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
-    <li><a href="mailto:rotaract@example.com" title="Email"><i class="fa fa-envelope"></i></a></li>
+  <ul class="contact-methods">
+    {%- if page.contact.email -%}
+    <li><a href="{{page.contact.email}}" title="Email"><i class="fa fa-envelope"></i></a></li>
+    {%- endif -%}
+
+    {%- if page.contact.facebook -%}
+    <li><a href="{{page.contact.facebook}}" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+    {%- endif -%}
+
+    {%- if page.contact.instagram -%}
+    <li><a href="{{page.contact.instagram}}" title="Instagram"><i class="fa fa-instagram"></i></a></li>
+    {%- endif -%}
+    
+    {%- for method in page.contact_methods -%}
+    <li><a href="{{method.link}}" title="{{method.title}}"><i class="fa {{method.fa_icon}}"></i></a></li>
+    {%- endfor -%}
   </ul>		
 
-  {{ page.embedded_map }}
+  {%- if page.embedded_map -%}
+  <div class="map-wrapper">
+    {{ page.embedded_map }}
+  </div>
+  {%- endif -%}
 </div>
 
