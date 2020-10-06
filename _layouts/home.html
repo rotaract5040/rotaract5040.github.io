@@ -3,16 +3,27 @@ layout: default
 ---
 
 <div class="home">
-  <div class="what-is">
-    <div>
-      <!-- TODO: use page title, if it won't mess w/ page navigation -->
-      <h1>What is Rotaract?</h1>
-      <hr>
-      {{ content }}
+  <div class="row">
+    <div class="col what-is">
+      <div>
+        <!-- TODO: use page title, if it won't mess w/ page navigation -->
+        <h1>What is Rotaract?</h1>
+        <hr>
+        {{ content }}
+      </div>
+    </div>
+    <div class="col typed">
+      <!-- TODO: animate with typed.js -->
+      <h2>LEADERSHIP</h2>
     </div>
   </div>
-  <div class="typed">
-    <!-- TODO: animate with typed.js -->
-    <h2>LEADERSHIP</h2>
+  <div class="club-list">
+    <h1>Clubs in District 5040</h1>
+    <hr>
+    <ul>
+      {%- for club in site.clubs -%}
+      <li>{{ club.title }}</li>
+      {%- endfor -%}
+    </ul>
   </div>
 </div>
