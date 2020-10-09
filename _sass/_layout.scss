@@ -276,7 +276,8 @@
   }
 
   .club-list {
-    background-image: url("/assets/images/district_website_district_rotaract_club_list_home-1.jpg");
+    background: url("/assets/images/district_website_district_rotaract_club_list_home-1.jpg") no-repeat;
+    background-size: cover;
     
     h1, li {
       color: white;
@@ -284,10 +285,20 @@
 
     ul {
       list-style-type: ">";
+      column-count: 2;
+      list-style-position: inside;
+      margin-left: 0;
+      width: 75%;
+      font-weight: 900;
     }
 
     hr {
       background-color: white;
+    }
+
+    .club-name {
+      padding-left: 8px;
+      font-weight: 400;
     }
   }
 
