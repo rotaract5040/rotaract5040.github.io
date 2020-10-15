@@ -7,6 +7,50 @@
 
     // Positioning context for the mobile navigation icon
     position: relative;
+
+    .contact-methods {
+      margin-bottom: 0;
+    
+      li {
+        display: inline;
+      }
+
+      a {
+        -moz-border-radius:50%;
+        -webkit-border-radius:50%;
+        border-radius:50%;
+        display:inline-block;
+        position:relative;
+        margin:0 auto 0 auto;
+        width: 26px;
+        height: 26px;
+        text-align:center;
+        font-size:16px;
+      }
+    
+      a:hover {
+        transition: all .3s ease-in;
+        background-color: $brand-color;
+        color: #fff
+      }
+
+      a:hover i {
+        transition: all .3s ease-in;
+        color: #fff;
+      }
+    
+      i {
+        margin:0;
+        line-height:26px;
+        text-align: center;
+        color: $brand-color;
+        -webkit-transition: all 0.8s;
+        -moz-transition: all 0.8s;
+        -o-transition: all 0.8s;
+        -ms-transition: all 0.8s;
+        transition: all 0.8s;
+      }
+    }
   }
   
   .site-title {
