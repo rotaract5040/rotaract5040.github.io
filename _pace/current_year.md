@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PACE Trip 2020
-permalink: /pace/
+permalink: pace/current-year/
 header_image: /assets/images/EY_2017-08-26_PACE-Trip_N0073.jpg
 header_image_description: Our 2017 PACE group in Victoria
 ---

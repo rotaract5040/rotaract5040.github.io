@@ -4,6 +4,7 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     {%- assign club_paths = site.clubs | map: "path" -%}
+    {%- assign pace_paths = site.pace | map: "path" -%}
     <nav class="navbar navbar-expand-lg justify-content-end navbar-light">
       <a class="navbar-brand mr-auto" rel="author" href="{{ "/" | relative_url }}">
         <img src="{{ site.logo_image }}" alt="{{ site.title }}">
@@ -33,6 +34,22 @@
                 {%- assign my_club = site.clubs | where: "path", path | first -%}
                 {%- if my_club.title -%}
                 <a class="dropdown-item" href="{{ my_club.url | relative_url }}">{{ my_club.title | escape }}</a>
+                {%- endif -%}
+              {%- endfor -%}
+              </div>
+            </li>
+          {%- endif -%}
+
+          {%- if pace_paths -%}
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                PACE
+              </a>
+              <div class="dropdown-menu text-right" aria-labelledby="navbarDropdownMenuLink">
+              {%- for path in pace_paths -%}
+                {%- assign my_pace_page = site.pace | where: "path", path | first -%}
+                {%- if my_pace_page.title -%}
+                <a class="dropdown-item" href="{{ my_pace_page.url | relative_url }}">{{ my_pace_page.title | escape }}</a>
                 {%- endif -%}
               {%- endfor -%}
               </div>
