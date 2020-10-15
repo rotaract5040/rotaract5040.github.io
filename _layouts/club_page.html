@@ -45,10 +45,6 @@ layout: default
     {%- if page.contact.instagram -%}
     <li><a href="{{page.contact.instagram}}" title="Instagram"><i class="fa fa-instagram"></i></a></li>
     {%- endif -%}
-    
-    {%- for method in page.contact_methods -%}
-    <li><a href="{{method.link}}" title="{{method.title}}"><i class="fa {{method.fa_icon}}"></i></a></li>
-    {%- endfor -%}
   </ul>		
 
   {%- if page.embedded_map -%}
