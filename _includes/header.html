@@ -18,7 +18,7 @@
           {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
             {%- if my_page.title -%}
-            <li class="nav-item px-2">
+            <li class="nav-item px-2 {% if page.url == my_page.url %} active {% endif %}">
               <a class="nav-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
             </li>
             {%- endif -%}
@@ -33,7 +33,7 @@
               {%- for path in club_paths -%}
                 {%- assign my_club = site.clubs | where: "path", path | first -%}
                 {%- if my_club.title -%}
-                <a class="dropdown-item" href="{{ my_club.url | relative_url }}">{{ my_club.title | escape }}</a>
+                <a class="dropdown-item {% if page.url == my_club.url %} active {% endif %}" href="{{ my_club.url | relative_url }}">{{ my_club.title | escape }}</a>
                 {%- endif -%}
               {%- endfor -%}
               </div>
@@ -49,7 +49,7 @@
               {%- for path in pace_paths -%}
                 {%- assign my_pace_page = site.pace | where: "path", path | first -%}
                 {%- if my_pace_page.title -%}
-                <a class="dropdown-item" href="{{ my_pace_page.url | relative_url }}">{{ my_pace_page.title | escape }}</a>
+                <a class="dropdown-item {% if page.url == my_pace_page.url %} active {% endif %}" href="{{ my_pace_page.url | relative_url }}">{{ my_pace_page.title | escape }}</a>
                 {%- endif -%}
               {%- endfor -%}
               </div>
