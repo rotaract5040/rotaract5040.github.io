@@ -18,14 +18,14 @@
           {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
             {%- if my_page.title -%}
-            <li class="nav-item">
+            <li class="nav-item px-2">
               <a class="nav-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
             </li>
             {%- endif -%}
           {%- endfor -%}
 
           {%- if club_paths -%}
-            <li class="nav-item dropdown">
+            <li class="nav-item dropdown px-2">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 Clubs
               </a>
@@ -41,7 +41,7 @@
           {%- endif -%}
 
           {%- if pace_paths -%}
-            <li class="nav-item dropdown">
+            <li class="nav-item dropdown px-2">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 PACE
               </a>
