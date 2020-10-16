@@ -10,7 +10,7 @@
 
     .contact-methods {
       margin-bottom: 0;
-    
+
       li {
         display: inline;
       }
@@ -26,8 +26,9 @@
         height: 26px;
         text-align:center;
         font-size:16px;
+        transition: all .3s ease-in;
       }
-    
+
       a:hover {
         transition: all .3s ease-in;
         background-color: $brand-color;
@@ -38,21 +39,33 @@
         transition: all .3s ease-in;
         color: #fff;
       }
-    
+
       i {
         margin:0;
         line-height:26px;
         text-align: center;
         color: $brand-color;
-        -webkit-transition: all 0.8s;
-        -moz-transition: all 0.8s;
-        -o-transition: all 0.8s;
-        -ms-transition: all 0.8s;
-        transition: all 0.8s;
+        transition: all .3s ease-in;
       }
     }
+
+    .dropdown-item {
+      font-size: 13px;
+      color: $text-color;
+    }
+
+    .dropdown-item:hover {
+      color: $brand-color;
+    }
+
+    .dropdown-menu {
+      border-radius: 0;
+      border: none;
+      background-color: #f9f9f9;
+      box-shadow: 0 0 4px rgba(0,0,0,.2);
+    }
   }
-  
+
   .site-title {
     @include relative-font-size(1.625);
     font-weight: 300;
@@ -66,23 +79,23 @@
       color: $grey-color-dark;
     }
   }
-  
+
   .site-nav {
     float: right;
     line-height: $base-line-height * $base-font-size * 2.25;
-  
+
     .nav-trigger {
         display: none;
     }
-  
+
     .menu-icon {
       display: none;
     }
-  
+
     .page-link {
       color: $text-color;
       line-height: $base-line-height;
-  
+
       // Gaps between nav items, but not on the last one
       &:not(:last-child) {
         margin-right: 20px;
@@ -121,7 +134,7 @@
 
     /* Show the dropdown menu on hover */
     .dropdown:hover .dropdown-content {display: block;}
-      
+
     @include media-query($on-palm) {
       position: absolute;
       top: 9px;
@@ -130,7 +143,7 @@
       border: 1px solid $grey-color-light;
       border-radius: 5px;
       text-align: right;
-  
+
       label[for="nav-trigger"] {
         display: block;
         float: right;
@@ -139,7 +152,7 @@
         z-index: 2;
         cursor: pointer;
       }
-  
+
       .menu-icon {
         display: block;
         float: right;
@@ -148,26 +161,26 @@
         line-height: 0;
         padding-top: 10px;
         text-align: center;
-  
+
         > svg {
           fill: $grey-color-dark;
         }
       }
-  
+
       input ~ .trigger {
         clear: both;
         display: none;
       }
-  
+
       input:checked ~ .trigger {
         display: block;
         padding-bottom: 5px;
       }
-  
+
       .page-link {
         display: block;
         padding: 5px 10px;
-  
+
         &:not(:last-child) {
           margin-right: 0;
         }
@@ -183,9 +196,9 @@
     // TODO: mobile friendly
     height: 200px;
   }
-  
-  
-  
+
+
+
   /**
    * Site footer
    */
@@ -193,59 +206,59 @@
     padding: $spacing-unit 0;
     background-color: $grey-color-light;
   }
-  
+
   .footer-heading {
     @include relative-font-size(1.125);
     margin-bottom: $spacing-unit / 2;
   }
-  
+
   .contact-list,
   .social-media-list {
     list-style: none;
     margin-left: 0;
   }
-  
+
   .footer-col-wrapper {
     @include relative-font-size(0.9375);
     color: $grey-color;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
   }
-  
+
   .footer-col {
     float: left;
     margin-bottom: $spacing-unit / 2;
     padding-left: $spacing-unit / 2;
   }
-  
+
   .footer-col-1 {
     width: -webkit-calc(35% - (#{$spacing-unit} / 2));
     width:         calc(35% - (#{$spacing-unit} / 2));
   }
-  
+
   .footer-col-2 {
     width: -webkit-calc(20% - (#{$spacing-unit} / 2));
     width:         calc(20% - (#{$spacing-unit} / 2));
   }
-  
+
   .footer-col-3 {
     width: -webkit-calc(45% - (#{$spacing-unit} / 2));
     width:         calc(45% - (#{$spacing-unit} / 2));
   }
-  
+
   @include media-query($on-laptop) {
     .footer-col-1,
     .footer-col-2 {
       width: -webkit-calc(50% - (#{$spacing-unit} / 2));
       width:         calc(50% - (#{$spacing-unit} / 2));
     }
-  
+
     .footer-col-3 {
       width: -webkit-calc(100% - (#{$spacing-unit} / 2));
       width:         calc(100% - (#{$spacing-unit} / 2));
     }
   }
-  
+
   @include media-query($on-palm) {
     .footer-col {
       float: none;
@@ -253,9 +266,9 @@
       width:         calc(100% - (#{$spacing-unit} / 2));
     }
   }
-  
-  
-  
+
+
+
   /**
    * Page content
    */
@@ -271,15 +284,15 @@
       object-fit: cover;
     }
   }
-  
+
   .page-banner {
     display: flex;
     background-color: #f7f7f7;
     align-items: center;
     justify-content: center;
     flex-flow: column wrap;
-    min-height: 180px;      
-    
+    min-height: 180px;
+
     @include media-query($on-palm) {
       min-height: 70px;
     }
@@ -294,15 +307,15 @@
       }
     }
   }
-  
+
   .page-heading {
     @include relative-font-size(2);
   }
-  
+
   .post-list-heading {
     @include relative-font-size(1.75);
   }
-  
+
 
   .home {
     align-items: center;
@@ -337,7 +350,7 @@
   .club-list {
     background: url("/assets/images/district_website_district_rotaract_club_list_home-1.jpg") no-repeat;
     background-size: cover;
-    
+
     h1, li {
       color: white;
     }
@@ -365,63 +378,63 @@
   .post-list {
     margin-left: 0;
     list-style: none;
-  
+
     > li {
       margin-bottom: $spacing-unit;
     }
   }
-  
+
   .post-meta {
     font-size: $small-font-size;
     color: $grey-color;
   }
-  
+
   .post-link {
     display: block;
     @include relative-font-size(1.5);
   }
-  
-  
-  
+
+
+
   /**
    * Posts
    */
   .post-header {
     margin-bottom: $spacing-unit;
   }
-  
+
   .post-title {
     @include relative-font-size(2.625);
     letter-spacing: -1px;
     line-height: 1;
-  
+
     @include media-query($on-laptop) {
       @include relative-font-size(2.25);
     }
   }
-  
+
   .post-content {
     margin-bottom: $spacing-unit;
-  
+
     h2 {
       @include relative-font-size(2);
-  
+
       @include media-query($on-laptop) {
         @include relative-font-size(1.75);
       }
     }
-  
+
     h3 {
       @include relative-font-size(1.625);
-  
+
       @include media-query($on-laptop) {
         @include relative-font-size(1.375);
       }
     }
-  
+
     h4 {
       @include relative-font-size(1.25);
-  
+
       @include media-query($on-laptop) {
         @include relative-font-size(1.125);
       }
@@ -447,7 +460,7 @@
       color: $brand-color;
       background-color: $grey-color-light;
     }
-  
+
     .list-group-item.active {
       background-color: $brand-color;
       color: white;
@@ -500,4 +513,3 @@
 
 
   }
-  

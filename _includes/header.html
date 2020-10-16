@@ -12,7 +12,7 @@
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
-      <div class="collapse navbar-collapse text-right flex-grow-0" id="navbarNavAltMarkup">
+      <div class="collapse navbar-collapse flex-grow-0" id="navbarNavAltMarkup">
         <ul class="navbar-nav">
 
           {%- for path in page_paths -%}
@@ -29,7 +29,7 @@
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 Clubs
               </a>
-              <div class="dropdown-menu text-right" aria-labelledby="navbarDropdownMenuLink">
+              <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
               {%- for path in club_paths -%}
                 {%- assign my_club = site.clubs | where: "path", path | first -%}
                 {%- if my_club.title -%}
@@ -45,7 +45,7 @@
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 PACE
               </a>
-              <div class="dropdown-menu text-right" aria-labelledby="navbarDropdownMenuLink">
+              <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
               {%- for path in pace_paths -%}
                 {%- assign my_pace_page = site.pace | where: "path", path | first -%}
                 {%- if my_pace_page.title -%}
