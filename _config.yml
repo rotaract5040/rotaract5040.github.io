@@ -12,7 +12,7 @@ footer_logo: /assets/images/district_website_rotary_polio_logo_footer-1.png
 footer_logo_alt: Rotary - End polio now
 
 # Build settings
-markdown: kramdown
+markdown: CommonMarkGhPages
 plugins:
   - jekyll-feed
 
