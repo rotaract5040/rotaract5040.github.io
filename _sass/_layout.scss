@@ -32,12 +32,12 @@
       a:hover {
         transition: all .3s ease-in;
         background-color: $brand-color;
-        color: #fff
+        color: $off-white-color;
       }
 
       a:hover i {
         transition: all .3s ease-in;
-        color: #fff;
+        color: $off-white-color;
       }
 
       i {
@@ -370,7 +370,7 @@
     background-size: cover;
 
     h1, li {
-      color: white;
+      color: $off-white-color
     }
 
     li {
@@ -385,7 +385,7 @@
     }
 
     hr {
-      background-color: white;
+      background-color: $off-white-color;
     }
 
     .club-name {
@@ -483,7 +483,7 @@
 
     .list-group-item.active {
       background-color: $brand-color;
-      color: white;
+      color: $off-white-color;
     }
 
     .contact-methods {
@@ -517,7 +517,7 @@
         margin:0;
         line-height:50px;
         text-align: center;
-        color: #fff;
+        color: $off-white-color;
         -webkit-transition: all 0.8s;
         -moz-transition: all 0.8s;
         -o-transition: all 0.8s;
