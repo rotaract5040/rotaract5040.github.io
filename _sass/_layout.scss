@@ -57,6 +57,23 @@
     //   transform-origin:  0% 50%;
     // }
 
+    .underlinable {
+      display:inline-block;
+    }
+
+    .underlinable:after {
+      display:block;
+      content: '';
+      border-bottom: solid 2px $brand-color;
+      transform: scaleX(0);
+      transform-origin:  0% 50%;
+      transition: transform 250ms ease-in-out;
+    }
+
+    .nav-item.active .underlinable:after, .nav-item:hover .underlinable:after{
+      transform: scaleX(1);
+    }
+
     .dropdown-item {
       font-size: 13px;
       color: $text-color;
