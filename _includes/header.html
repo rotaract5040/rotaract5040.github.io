@@ -20,7 +20,7 @@
             {%- if my_page.title -%}
             <li class="nav-item px-2 {% if page.url == my_page.url %} active {% endif %}">
               <a class="nav-link" href="{{ my_page.url | relative_url }}">
-                <span class="underlinable">{{ my_page.title | escape }}</span>
+                <span class="underlined-when-active">{{ my_page.title | escape }}</span>
               </a>
             </li>
             {%- endif -%}
@@ -29,7 +29,7 @@
           {%- if club_paths -%}
             <li class="nav-item dropdown px-2">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                <span class="underlinable">Clubs</span>
+                <span class="underlined-when-active">Clubs</span>
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
               {%- for path in club_paths -%}
@@ -45,7 +45,7 @@
           {%- if pace_paths -%}
             <li class="nav-item dropdown px-2">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                <span class="underlinable">PACE</span>
+                <span class="underlined-when-active">PACE</span>
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
               {%- for path in pace_paths -%}
