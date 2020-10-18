@@ -126,9 +126,6 @@
     align-items: center;
     justify-content: center;
     min-width: 400px;
-  }
-
-  .typed-wrapper {
     color: $brand-color;
     font-size: 60px;
     font-weight: 700;
@@ -156,6 +153,15 @@
       list-style-position: inside;
       margin-left: 0;
       width: 75%;
+
+      @include media-query($on-laptop) {
+        width: 100%;
+      }
+
+      @include media-query($on-palm) {
+        column-count: 1;
+        width: 100%;
+      }
     }
 
     hr {
