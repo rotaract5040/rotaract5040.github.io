@@ -7,14 +7,14 @@ layout: default
   <h1>{{ page.title }}</h1>
 
   <div class="row">
-    <div class="col-4">
+    <div class="col-md-4">
       <div class="list-group" id="list-tab" role="tablist">
         <a class="list-group-item list-group-item-action active" id="list-who-list" data-toggle="list" href="#list-who" role="tab" aria-controls="who">Who We Are</a>
         <a class="list-group-item list-group-item-action" id="list-what-list" data-toggle="list" href="#list-what" role="tab" aria-controls="what">What We Do</a>
         <a class="list-group-item list-group-item-action" id="list-meetings-list" data-toggle="list" href="#list-meetings" role="tab" aria-controls="meetings">Meetings</a>
       </div>
     </div>
-    <div class="col-8">
+    <div class="col-md-8">
       <div class="tab-content" id="nav-tabContent">
         <div class="tab-pane fade show active" id="list-who" role="tabpanel" aria-labelledby="list-who-list">
           {{ page.club_info.who_we_are | markdownify }}
@@ -22,7 +22,7 @@ layout: default
         <div class="tab-pane fade" id="list-what" role="tabpanel" aria-labelledby="list-what-list">
           {{ page.club_info.what_we_do | markdownify }}
         </div>
-        <div class="tab-pane fade" id="list-meetings" role="tabpanel" aria-labelledby="list-meetings-list">
+        <div class="tab-pane fade mb-3" id="list-meetings" role="tabpanel" aria-labelledby="list-meetings-list">
           {{ page.club_info.meetings | markdownify }}
           {{ page.embedded_calendar }}
         </div>
@@ -45,7 +45,7 @@ layout: default
     {%- if page.contact.instagram -%}
     <li><a href="{{page.contact.instagram}}" title="Instagram"><i class="fa fa-instagram"></i></a></li>
     {%- endif -%}
-  </ul>		
+  </ul>
 
   {%- if page.embedded_map -%}
   <div class="map-wrapper">
