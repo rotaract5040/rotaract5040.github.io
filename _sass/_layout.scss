@@ -4,6 +4,27 @@
 .site-header {
   border-bottom: 1px solid $grey-color-light;
 
+  .nav-container, .navbar-nav, .contact-methods {
+    @include media-query($on-laptop) {
+      max-width: 100%;
+      margin: 0 !important;
+    }
+  }
+
+  .logo-small {
+    display: none;
+  }
+
+  @include media-query($on-palm) {
+    .logo-small {
+      display: block;
+    }
+
+    .logo-large {
+      display: none;
+    }
+  }
+
   .contact-methods {
     margin-bottom: 0;
 
@@ -77,6 +98,10 @@
     border: none;
     background-color: #f9f9f9;
     box-shadow: 0 0 4px rgba(0,0,0,.2);
+  }
+
+  .navbar-toggler {
+    border: none;
   }
 }
 
