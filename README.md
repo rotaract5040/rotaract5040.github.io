@@ -22,7 +22,7 @@ If you're not familiar with Github or coding, this might be challenging at first
 
 Navigate to the [main project page](https://github.com/rotaract5040/rotaract5040.github.io), and you'll see something like this:
 
-(TODO)
+![Screenshot from 2020-10-18 09-53-40](https://user-images.githubusercontent.com/2569306/96375139-12687180-112c-11eb-95ba-7d44df3cda04.png)
 
 Files and folders that hold website content are highlighted in red. Content will *always* be found in Markdown files (they end in `.md`). Don't worry about all the other file types!
 
@@ -41,11 +41,11 @@ Here are some examples:
 
 Once you've found the content file you want to change, you'll probably see something like this:
 
-(TODO)
+![Screenshot from 2020-10-18 10-07-48](https://user-images.githubusercontent.com/2569306/96375163-2f04a980-112c-11eb-9503-d8ae179aa63a.png)
 
 Hit the 'Edit' icon (highlighted in red), to start changing the page's content. You'll see something like this:
 
-(TODO)
+![Screenshot from 2020-10-18 10-08-44](https://user-images.githubusercontent.com/2569306/96375194-50fe2c00-112c-11eb-939f-f886fa0ae4af.png)
 
 Want special formatting? Headings? Quotes? Images? We use 'Markdown' to do that. Check-out other pages on the site, or this document for examples of what you can do: [Basic writing and formatting syntax](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)
 
