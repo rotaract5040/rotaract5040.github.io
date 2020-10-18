@@ -338,15 +338,11 @@
   .home {
     align-items: center;
 
-    .what-is {
-      display: flex;
-      width: 50%;
-    }
-
     .typed-container {
       display: flex;
       align-items: center;
       justify-content: center;
+      min-width: 400px;
     }
 
     .typed-wrapper {
@@ -358,10 +354,6 @@
     .typed-cursor {
       font-weight: 100;
       color: $text-color;
-    }
-
-    #typed {
-      text-align: center;
     }
   }
 
