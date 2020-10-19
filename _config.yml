@@ -2,8 +2,6 @@ title: Rotaract 5040
 email: your-email@example.com
 description: >-
   An international network of students and young professionals.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
 facebook_url: https://www.facebook.com/Rotaract5040/
 instagram_url: https://www.instagram.com/rotaract5040/
 district_email: drr@rotaract5040.org
@@ -14,23 +12,9 @@ footer_logo_alt: Rotary - End polio now
 
 # Build settings
 markdown: CommonMarkGhPages
-plugins:
-  - jekyll-feed
 
 collections:
   clubs:
-    output: true  # We want a page for each club!
+    output: true
   pace:
     output: true
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/

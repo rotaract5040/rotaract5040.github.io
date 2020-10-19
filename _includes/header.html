@@ -1,9 +1,5 @@
 <header class="site-header" role="banner">
 
-  {%- assign default_paths = site.pages | map: "path" -%}
-  {%- assign page_paths = site.header_pages | default: default_paths -%}
-  {%- assign club_paths = site.clubs | map: "path" -%}
-  {%- assign pace_paths = site.pace | map: "path" -%}
   <nav class="navbar navbar-expand-lg justify-content-end navbar-light">
     <div class="nav-container container my-4">
       <a class="navbar-brand mr-auto" rel="author" href="{{ "/" | relative_url }}">
@@ -16,43 +12,43 @@
       <div class="collapse navbar-collapse flex-grow-0 text-right" id="navbarNavAltMarkup">
         <ul class="navbar-nav">
 
-          {%- for path in page_paths -%}
-            {%- assign my_page = site.pages | where: "path", path | first -%}
-            {%- if my_page.title -%}
-            <li class="nav-item px-2 {% if page.url == my_page.url %} active {% endif %}">
-              <a class="nav-link" href="{{ my_page.url | relative_url }}">
-                <span class="underlined-when-active">{{ my_page.title | escape }}</span>
+          {%- for site_page in site.pages -%}
+            {%- if site_page.title && site_page.url -%}
+            <li class="nav-item px-2 {% if page.url == site_page.url %} active {% endif %}">
+              <a class="nav-link" href="{{ site_page.url | relative_url }}">
+                <span class="underlined-when-active">{{ site_page.title | escape }}</span>
               </a>
             </li>
             {%- endif -%}
           {%- endfor -%}
 
-          {%- if club_paths -%}
-            <li class="nav-item dropdown px-2">
+          {%- if site.clubs | first -%}
+            {%- assign active_child = site.clubs | where: "url", page.url | first -%}
+            <li class="nav-item dropdown px-2 {% if active_child %} active {% endif %}">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 <span class="underlined-when-active">Clubs</span>
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-              {%- for path in club_paths -%}
-                {%- assign my_club = site.clubs | where: "path", path | first -%}
-                {%- if my_club.title -%}
-                <a class="dropdown-item {% if page.url == my_club.url %} active {% endif %}" href="{{ my_club.url | relative_url }}">{{ my_club.title | escape }}</a>
+              {%- for club in site.clubs -%}
+                {%- if club.title && club.url -%}
+                <a class="dropdown-item {% if page.url == club.url %} active {% endif %}" href="{{ club.url | relative_url }}">{{ club.title | escape }}</a>
                 {%- endif -%}
               {%- endfor -%}
               </div>
             </li>
           {%- endif -%}
 
-          {%- if pace_paths -%}
-            <li class="nav-item dropdown px-2">
+          {%- if site.pace | first -%}
+            {%- assign active_child = site.pace | where: "url", page.url | first -%}
+            <li class="nav-item dropdown px-2 {% if active_child %} active {% endif %}">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 <span class="underlined-when-active">PACE</span>
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-              {%- for path in pace_paths -%}
-                {%- assign my_pace_page = site.pace | where: "path", path | first -%}
-                {%- if my_pace_page.title -%}
-                <a class="dropdown-item {% if page.url == my_pace_page.url %} active {% endif %}" href="{{ my_pace_page.url | relative_url }}">{{ my_pace_page.title | escape }}</a>
+              {%- for pace_page in site.pace -%}
+                {%- assign pace_page = site.pace | where: "path", path | first -%}
+                {%- if pace_page.title && pace_page.url -%}
+                <a class="dropdown-item {% if page.url == pace_page.url %} active {% endif %}" href="{{ pace_page.url | relative_url }}">{{ pace_page.title | escape }}</a>
                 {%- endif -%}
               {%- endfor -%}
               </div>
