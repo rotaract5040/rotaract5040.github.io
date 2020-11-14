@@ -28,4 +28,5 @@ embedded_map: |
 contact:
     facebook: https://www.facebook.com/VanYPRotaractClub/
     instagram: http://instagram.com/vanyprotaractclub
+    email: vancouveryoungprofessionals@gmail.com 
 ---
