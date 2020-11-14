@@ -28,4 +28,5 @@ embedded_map: |
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2608.535725761761!2d-123.138909784286!3d49.17142007931928!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x548675334045ff55%3A0xfce8c813d5b73996!2s5600+No+3+Rd%2C+Richmond%2C+BC+V6X!5e0!3m2!1sen!2sca!4v1512918928737" style="border: 0px none; pointer-events: none;" allowfullscreen="" width="600" height="600" frameborder="0"></iframe>
 contact:
     facebook: https://www.facebook.com/richmondrotaract/
+    email: rotaractclubofrichmond@gmail.com
 ---
