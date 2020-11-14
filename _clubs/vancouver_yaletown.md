@@ -25,4 +25,5 @@ embedded_map: |
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2602.931458117473!2d-123.11773868428226!3d49.27769597933076!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5486717db8c59d41%3A0x413e16318a0f2ecc!2s842+Cambie+St%2C+Vancouver%2C+BC+V6B+2P6!5e0!3m2!1sen!2sca!4v1512919928768" style="border: 0px none; pointer-events: none;" allowfullscreen="" width="600" height="600" frameborder="0"></iframe>
 contact:
     facebook: https://www.facebook.com/yaletownrotaract/
+    email: rotaractyaletown@gmail.com 
 ---
