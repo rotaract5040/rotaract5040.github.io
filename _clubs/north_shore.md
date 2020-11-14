@@ -26,4 +26,5 @@ embedded_map: |
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2601.098408706502!2d-123.0830657843095!3d49.31241997933462!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5486704c8f8975fd%3A0x2640d23322a200e0!2sJohn+Braithwaite+Community+Centre!5e0!3m2!1sen!2sca!4v1515376338738" style="border: 0px none; pointer-events: none;" allowfullscreen="" width="600" height="450" frameborder="0"></iframe>
 contact:
     facebook: https://www.facebook.com/northshorerotaract/
+    email: sandrinepelletier@live.fr 
 ---
