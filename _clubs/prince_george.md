@@ -22,4 +22,5 @@ embedded_map: |
 contact:
     instagram: http://instagram.com/rotaractprincegeorge
     facebook: https://www.facebook.com/rotaractprincegeorge/
+    email: paigemalmgren@gmail.com
 ---
