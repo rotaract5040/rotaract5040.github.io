@@ -31,4 +31,5 @@ embedded_map: |
 contact:
     facebook: https://www.facebook.com/VancouverRotaract/
     instagram: http://instagram.com/rotaractvancouver
+    email: rotaract.vancouver@gmail.com
 ---
