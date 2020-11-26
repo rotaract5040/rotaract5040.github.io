@@ -20,7 +20,7 @@ club_info:
         * Salvation Army Christmas Dinner and Clothing Drive
         * International Water Project in Argentina
 
-    meetings: The clubs currently meets via Zoom every second Wednesday of the month.
+    meetings: The club currently meets via Zoom every second Wednesday of the month.
 
 embedded_calendar: |
     <iframe src="https://calendar.google.com/calendar/embed?src=richmondrotaract%40gmail.com&amp;ctz=America/Vancouver" style="border: 0" scrolling="no" width="800" height="600" frameborder="0"></iframe>
