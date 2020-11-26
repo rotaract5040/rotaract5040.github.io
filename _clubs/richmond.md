@@ -20,7 +20,7 @@ club_info:
         * Salvation Army Christmas Dinner and Clothing Drive
         * International Water Project in Argentina
 
-    meetings: The clubs meets on the second Sunday of each month at the Vancity Credit Union(5600 No.3 Rd Richmond). Meetings are held from 10:30 am – 12pm.
+    meetings: The clubs currently meets via Zoom every second Wednesday of the month.
 
 embedded_calendar: |
     <iframe src="https://calendar.google.com/calendar/embed?src=richmondrotaract%40gmail.com&amp;ctz=America/Vancouver" style="border: 0" scrolling="no" width="800" height="600" frameborder="0"></iframe>
