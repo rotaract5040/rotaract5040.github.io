@@ -5,6 +5,10 @@ permalink: pace/current-year/
 header_image: /assets/images/EY_2017-08-26_PACE-Trip_N0073.jpg
 header_image_description: Our 2017 PACE group in Victoria
 ---
+### PACE 2021
+
+It certainly is unprecedented times. Due to the nature of the world and uncertainty of travel later this year, the PACE 2021 trip will not be happening this year. We hold onto hope to be able to welcome international Rotaractors in 2022. Stay tuned to our social media at the end of August for a local version of PACE.
+
 
 ### PACE 2020: Update
 
