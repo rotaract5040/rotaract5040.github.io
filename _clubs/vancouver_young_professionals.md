@@ -19,7 +19,7 @@ club_info:
 
         No matter what we’re doing, we’re having fun and working as a team. That has led to strong friendships within our club. If you want to join the Rotaract family, we would be happy to have you on our team!
 
-    meetings: Meetings are held the second Monday of each month from 7:00pm to 9:00pm at Robert Lee YMCA (955 Burrard Street, Vancouver).
+    meetings: Meetings are held the first Monday of each month from 6:00pm to 8:00pm online via ZOOM until further notice. For a link to the meeting, please email us or message us on social media.
 
 embedded_calendar: |
     <iframe src="https://calendar.google.com/calendar/embed?src=vancouveryoungprofessionals%40gmail.com&amp;ctz=America/Vancouver" style="border: 0" scrolling="no" width="800" height="600" frameborder="0"></iframe>
