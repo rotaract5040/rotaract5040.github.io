@@ -13,14 +13,15 @@ club_info:
         Sponsored by the [Rotary Club of Vancouver](https://portal.clubrunner.ca/777).
 
     what_we_do: |
-        * Organizing a service trip to Sao Paulo, Brazil in the August of 2011 with the Rotaract Club of Ancheita
-        * Music for Japan: educational fundraiser/musical concert in the spring of 2011 to raise awareness about the earthquake in Japan
+        * Rake for diapers
+        * Movie night fundraisers in partnership with UBC Refugee Club
         * 4th Annual Professional Development Conference, aimed for high school and university students
         * Help dyslexic students through the Computer Assisted Literacy Solution (CALS) Program
         * Help children with developmental disabilities through the Berwick Program
-        * Union Gospel Mission Soup Kitchen in Downtown Eastside
+        * Clothing drive for a women's shelter in the DTES
         * Help with Halloween and Christmas celebrations at Kiwassa Neighbourhood House
-        * Variety Show of Hearts Telethon
+        * Senior home virtual visits
+
 
     meetings: The campus club is only active during the school year (September to April). We meet once every week at the UBC Vancouver Point Grey campus and the meeting time varies from school term to school term based on the availability of its members.
 
