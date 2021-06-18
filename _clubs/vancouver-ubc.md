@@ -15,7 +15,7 @@ club_info:
     what_we_do: |
         * Rake for diapers
         * Movie night fundraisers in partnership with UBC Refugee Club
-        * 4th Annual Professional Development Conference, aimed for high school and university students
+        * Annual Professional Development Conference, aimed for high school and university students
         * Help dyslexic students through the Computer Assisted Literacy Solution (CALS) Program
         * Help children with developmental disabilities through the Berwick Program
         * Clothing drive for a women's shelter in the DTES
