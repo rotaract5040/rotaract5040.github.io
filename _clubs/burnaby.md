@@ -6,7 +6,7 @@ header_image: /assets/images/burnaby_rotaract_photo_header.jpg
 header_image_description: Rotaract group in the TWECS warehouse
 club_info:
     who_we_are: |
-        This year, the club celebrated its 10th anniversary! It started in 2007 to provide a service club for Simon Fraser University students, Burnaby Rotaract has developed to consist of diverse members from students to young professionals from different parts of BC, Canada, and the world. blah blah
+        This year, the club celebrated its 10th anniversary! It started in 2007 to provide a service club for Simon Fraser University students, Burnaby Rotaract has developed to consist of diverse members from students to young professionals from different parts of BC, Canada, and the world. 
 
         The Burnaby Rotaract Club is proud of the high caliber of its members who are passionately partaking projects and events throughout the year. Year-round projects include container loading with Rotary World Help and Community Dinner with the Burnaby Neighborhood House. In addition, the club spearheads the planning and execution of the PAcific Canadian Experience (PACE)  roundtrip in partnership with local Rotaract Clubs from District 5040 and 5020.
 
