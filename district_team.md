@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: team_page
 title: District Team
 permalink: /district-team/
 ---
