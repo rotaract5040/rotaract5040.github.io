@@ -6,21 +6,27 @@ header_image: /assets/images/richmond.jpg
 header_image_description: Richmond club members posing with Rotary balloons
 club_info:
     who_we_are: |
-        The Rotaract Club of Richmond is the oldest Rotaract Club in the District.  They are very active in the community volunteering with a number of different community organizations and partners.  Most notably, the City of Richmond, Richmond Animal Protection Society, Canadian Blood Services, Salvation Army Church, and the SOS Children’s Village.
+        The Rotaract Club of Richmond is the oldest Rotaract Club in the District. They are very active in the community volunteering with a number of different community organizations and partners. Most notably, the City of Richmond, Richmond Animal Protection Society, Canadian Blood Services, Salvation Army Church, and the SOS Children’s Village. 
 
-        Over the past few years, the Rotaract Club of Richmond has worked closely with the Steveson-London Interact Club, McMath Interact Club and the Hugh Boyd Interact Club.  They also work closely with the Richmond Sunrise Rotary Club and the Rotary Club of Richmond to help support their initiatives and projects. As a small but vibrant club the Rotaract Club of Richmond, based on the values of Rotary, remains committed to its service and work in the community.
+        Over the past few years, the Rotaract Club of Richmond has worked closely with the Steveson-London Interact Club, McMath Interact Club and the Hugh Boyd Interact Club. They also work closely with the Richmond Sunrise Rotary Club and the Rotary Club of Richmond to help support their initiatives and projects. As a small but vibrant club the Rotaract Club of Richmond, based on the values of Rotary, remains committed to its service and work in the community. 
+
+        **Co-President**: Monica Lopez, a recent grad of the UBC Kinesiology program with the aspiration to apply for Occupational Therapy School. She has been with Rotary for 9 years including J.N.Burnett Interact Club, RYLA South, RYLA Lakelse, and previous member of Rotaract Club of North Shore. In her spare time, she enjoys playing tennis, pottery, yoga, and spending time with her family.
+ 
+        **Co-President**: Olivia Li, has been a part of Rotaract for over 5 years partaking in initiatives with the UBC Rotaract Club, Richmond Rotaract Club, and our District Rotaract Committee. She completed her Bachelor of Science at UBC and now works as a sonographer. In her free time, Olivia enjoys painting, photography, and hiking.  
 
         Sponsored by: [Rotary Club of Richmond](http://richmondrotary.com/)
 
     what_we_do: |
-        * Richmond Animal Protection Society ( 2nd Sunday of every month)
-        * Canadian Blood Services Clinics
-        * Canadian Blood Services Community Outreach
-        * SOS Children’s Village (annual run and fundraisers)
-        * Salvation Army Christmas Dinner and Clothing Drive
-        * International Water Project in Argentina
+        * Richmond Food Bank (every 2nd Saturday of the month) 
+        * Salvation Army Christmas Dinner and Clothing Drive 
+        * Local Park & Beach Clean Ups 
+        * Downtown Eastside Women’s Centre
+        * Canadian Blood Services Clinics 
+        * Canadian Blood Services Community Outreach 
+        * SOS Children’s Village (annual run and fundraisers) 
 
-    meetings: The club currently meets via Zoom every second Wednesday of the month.
+    meetings: |
+        The club currently meets via Zoom every second Wednesday of the month.
 
 embedded_calendar: |
     <iframe src="https://calendar.google.com/calendar/embed?src=richmondrotaract%40gmail.com&amp;ctz=America/Vancouver" style="border: 0" scrolling="no" width="800" height="600" frameborder="0"></iframe>
@@ -29,4 +35,5 @@ embedded_map: |
 contact:
     facebook: https://www.facebook.com/richmondrotaract/
     email: rotaractclubofrichmond@gmail.com
+    instagram: https://www.instagram.com/richmondrotaract/
 ---

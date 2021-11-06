@@ -6,20 +6,19 @@ header_image: /assets/images/young_professionals.jpg
 header_image_description: Vancouver Young Professionals club members posing for a photo in a park
 club_info:
     who_we_are: |
-        The Vancouver Young Professionals Rotaract Club cares deeply about three things: 1) giving back to our communities, 2) developing leadership, and 3) strengthening our friendships. As part of Rotary International, we leverage the Rotary network to support our three goals. We meet regularly to socialize, learn, network and organize volunteer/philanthropic projects.
+        We are a group of young professionals that care deeply about three things: 1) giving back to our communities, 2) building our professional networks, and 3) strengthening our friendships. As part of Rotary International, we leverage their network to support our three goals. We meet regularly to socialize, learn, network and organize volunteer/philanthropic projects. 
 
-        The Vancouver Young Professionals Rotaract Club is growing and we are seeking new members. We are an active, open and welcoming group of people who would love to see you at our next social event, meeting or fundraiser. Come along, meet our team and learn what Rotaract is all about. There is absolutely no obligation to join.
+        **President**: Julia Halbert. Julia is the Executive Assistant for Early Music Vancouver. She has been a singer and performer for over ten years having performed across Canada and the US. She has appeared in multiple documentaries and theatre productions. Julia has always been an active member of her community and most recently was the Secretary for the Vancouver Young Professionals Club from 2020-2021. In her spare time Julia is on the beach, out for a run or watching the office for the 3rd time. 
+ 
+        **Vice President**: Eric Peach. Eric is an inventor and engineer who likes to see and do cool & interesting things, and take care of the people he cares about. For fun he enjoys volunteering, teaching & mentoring, creating music, designing electronic circuits (especially ones with lots of LEDs), and various outdoor activities. His current work involves designing sensors that capture radar & radio signals to help ships, planes and satellites navigate more safely, while detecting & locating hostile or criminal ships which may be trying to hide. 
 
         Sponsored by the [Rotary Club of Vancouver](https://portal.clubrunner.ca/777).
 
     what_we_do: |
-        The Vancouver Young Professionals Rotaract Club volunteers within the community for local organizations such as the [Salvation Army](http://www.harbourlightbc.com/). We also work hard to fundraise for international organizations such as [ShelterBox](https://www.shelterboxcanada.org/).
+        VYP puts on socials every month from camping retreats to comedy nights and everything I’m between. Our club does multiple blood drives every year and assists with Food on The Corner and Refood. Additionally, we put on fundraisers for the Robert Lee YMCA, The Shoe Box Project, The Greater Vancouver Food Bank, and many other amazing organizations. 
 
-        One of the most important aspects of Rotaract is leadership development. Our club’s executive team, which is elected on an annual basis, consists of nine members who are able to develop their leadership skills in a variety of ways through their role on the team.
-
-        No matter what we’re doing, we’re having fun and working as a team. That has led to strong friendships within our club. If you want to join the Rotaract family, we would be happy to have you on our team!
-
-    meetings: Meetings are held the first Monday of each month from 6:00pm to 8:00pm online via ZOOM until further notice. For a link to the meeting, please email us or message us on social media.
+    meetings: |
+        Meetings are held the first Monday of each month from 6:00pm to 8:00pm online via ZOOM until further notice. For a link to the meeting, please email us or message us on social media.
 
 embedded_calendar: |
     <iframe src="https://calendar.google.com/calendar/embed?src=vancouveryoungprofessionals%40gmail.com&amp;ctz=America/Vancouver" style="border: 0" scrolling="no" width="800" height="600" frameborder="0"></iframe>

@@ -2,11 +2,15 @@
 layout: club_page
 title: Prince George
 permalink: /prince-george/
-header_image: /assets/images/prince_george.jpg
+header_image: /assets/images/prince_george_header.png
 header_image_description: Prince George club members posing for a photo
 club_info:
     who_we_are: |
         The Rotaract Club of Prince George is a community-based club comprised of students and young professionals. As a relatively new club, they are hoping to become more involved in the community through volunteering and expressing a voice on important issues in the community. They believe that with diversity and unity, any issue can be tackled and positive change can be created. Their core values include creating positive relationships and professional skills and taking part in diverse experiences.
+
+        **President**: Britney Szarka, a graduate from UNBC majoring in Biomedical Studies, Britney works at the Prince George Hospice Society as the Volunteer Coordinator and Children's Grief Lead. She sits on the Board of BBBSNBC as Vice President and mentors school age children in their group programming. Growing up in Prince George, she enjoys exploring Northern BC by hiking, canoeing, skiing, biking, and snowshoeing. She recently discovered what makes PG unique is its community, its people’s remarkable support for those in need. 
+
+        **Vice President**: Paige Malmgren
 
         Sponsored by: [Rotary Club of Prince George-Downtown](http://www.clubrunner.ca/Portal/Home.aspx?cid=758), [Rotary Club of Prince George-Nechako](http://www.clubrunner.ca/Portal/Home.aspx?cid=372), and [Rotary Club of Prince George-Yellowhead](http://www.clubrunner.ca/Portal/Home.aspx?cid=760)
     what_we_do: |
@@ -14,7 +18,8 @@ club_info:
         * Purple Jars for Polio – placing decorated donation jars and polio information sheets at six business locations in the community. All proceeds will be donated to the Polio Plus Fund.
         * Purchasing a ShelterBox
         * Supporting local families during the holidays
-    meetings: They meet every first and third Sunday of the month at 1:00 pm at the Hubspace (1299 3rd Ave, Prince George).
+    meetings: |
+        Regular Club meetings are held at 6pm every other week, virtually and in-person.
 embedded_calendar: |
     <iframe src="https://calendar.google.com/calendar/embed?src=rotaractprincegeorge%40gmail.com&amp;ctz=America/Vancouver" style="border: 0" scrolling="no" width="800" height="600" frameborder="0"></iframe>
 embedded_map: |
@@ -22,5 +27,5 @@ embedded_map: |
 contact:
     instagram: http://instagram.com/rotaractprincegeorge
     facebook: https://www.facebook.com/rotaractprincegeorge/
-    email: paigemalmgren@gmail.com
+    email: rotaractprincegeorge@gmail.com 
 ---
