@@ -12,6 +12,10 @@ club_info:
 
         The club does work hard….while having fun! In addition to projects, the club conducts several socials throughout the year including Christmas, burger fundraisers and comedy nights! The club’s success would not be possible were it not for the amiable members, companionship with other Rotaract clubs in the district and the sponsorship of its sponsoring Rotary clubs who are dedicated to attend and support the club’s events.
 
+        **President**: Renmart Buhay, a physiology graduate from Simon Fraser University and researcher with a passion for public health and healthcare. Hobbies include writing, graphic illustration and breakdancing.
+
+        **Vice President**: Dustin Ward, studying graphic design at BCIT. Hobbies include photography and outdoors.
+
         Sponsored by: [Rotary Club of Burnaby Metrotown](http://www.clubrunner.ca/Portal/Home.aspx?cid=746), the [Rotary Club of Burnaby Deer Lake](http://www.clubrunner.ca/Portal/Home.aspx?cid=356), and the [Rotary Club of Burnaby](http://www.rotaryburnaby.org/)
     what_we_do: |
         * Community Dinner at Burnaby Neighbourhood House
