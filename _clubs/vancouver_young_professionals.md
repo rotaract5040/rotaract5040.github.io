@@ -20,6 +20,14 @@ club_info:
     meetings: |
         Meetings are held the first Monday of each month from 6:00pm to 8:00pm online via ZOOM until further notice. For a link to the meeting, please email us or message us on social media.
 
+Upcoming Events:
+
+Saturday September 17 - 4:00pm to 9:00pm Trivia and games at Queen Elizabeth Park.
+Pizza to be provided.
+
+Monday October 24 - World Polio Day
+Join us in a walk to raise awareness to end Polio. Starting at City Hall at 5:00pm, we will walk towards Science World. Please wear red for polio awareness.
+
 embedded_calendar: |
     <iframe src="https://calendar.google.com/calendar/embed?src=vancouveryoungprofessionals%40gmail.com&amp;ctz=America/Vancouver" style="border: 0" scrolling="no" width="800" height="600" frameborder="0"></iframe>
 embedded_map: |
