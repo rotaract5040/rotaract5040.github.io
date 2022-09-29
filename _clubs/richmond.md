@@ -12,7 +12,7 @@ club_info:
 
         **Co-President**: Monica Lopez, a recent grad of the UBC Kinesiology program with the aspiration to apply for Occupational Therapy School. She has been with Rotary for 9 years including J.N.Burnett Interact Club, RYLA South, RYLA Lakelse, and previous member of Rotaract Club of North Shore. In her spare time, she enjoys playing tennis, pottery, yoga, and spending time with her family.
  
-        **Co-President**: Olivia Li, has been a part of Rotaract for over 5 years partaking in initiatives with the UBC Rotaract Club, Richmond Rotaract Club, and our District Rotaract Committee. She completed her Bachelor of Science at UBC and now works as a sonographer. In her free time, Olivia enjoys painting, photography, and hiking.  
+        **Co-President**: Andrea Wong Koo
 
         Sponsored by: [Rotary Club of Richmond](http://richmondrotary.com/)
 
