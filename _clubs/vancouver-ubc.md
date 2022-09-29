@@ -9,6 +9,9 @@ club_info:
         The Rotaract Club of Vancouver is based at the University of British Columbia Campus. It is a student-run service club. It strives to integrate the ideas of the members and it aims to make a difference within the local community as well as in the international arena. The club is composed of a diverse student body and is very open to new and creative ideas within the contexts of professional development, community service, international service, and fundraising.
 
         Every year, the club empowers members to take on leadership roles heading project-driven committees. The club also strives to introduce to the members valuable community involvement opportunities which address the needs of the community as well as facilitate the personal growth of participants. The club meetings have a very friendly and positive atmosphere and they are marked by a sense of mutual respect and acceptance.
+        
+        
+        **President** Kamil Kanji. Kamil is a third year student at UBC looking to major in Political Science and International Relations. He joined Rotaract last year but has been involved with Rotary for quite a few years through Interact and other activities. The thing he loves the most about Rotaract is that it's a platform to meet super fun people who instantly become your friends but are also super passionate about making our communities the best they can be.
 
         Sponsored by the [Rotary Club of Vancouver](https://portal.clubrunner.ca/777).
 
