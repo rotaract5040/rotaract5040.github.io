@@ -12,7 +12,7 @@ club_info:
 
         **President**: Renmart Buhay, a physiology graduate from Simon Fraser University and researcher with a passion for public health and healthcare. Hobbies include writing, graphic illustration and breakdancing.
 
-        **Vice President**: Dustin Ward, studying graphic design at BCIT. Hobbies include photography and outdoors.
+        
 
         Sponsored by: [Rotary Club of Burnaby Metrotown](http://www.clubrunner.ca/Portal/Home.aspx?cid=746), the [Rotary Club of Burnaby Deer Lake](http://www.clubrunner.ca/Portal/Home.aspx?cid=356), and the [Rotary Club of Burnaby](http://www.rotaryburnaby.org/)
     what_we_do: |
