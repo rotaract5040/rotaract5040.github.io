@@ -9,6 +9,8 @@ club_info:
         The Rotaract Club of New Westminster has been serving this community for a time period approaching two decades. We are mostly comprised of students and young professionals connected by their like mindedness and passion to serve others. Meetings are held twice a month, in addition to socials and project events the club puts on.
 
         The Rotaract Club of New Westminster strongly believes that its success comes directly from the passion that each member of the club holds. This allows the members to completely divulge into each project that they are a part of. With teamwork and passion, they believe any project can gain momentum and be fully capable of success.
+        
+        **President** Maria Serban
 
         Sponsored by: [Rotary Club of New Westminster Royal City](http://www.royalcityrotary.ca/) and [Rotary Club of New Westminster](http://www.newwestrotary.ca/)
     what_we_do: |
