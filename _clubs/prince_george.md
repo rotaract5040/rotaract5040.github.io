@@ -8,9 +8,9 @@ club_info:
     who_we_are: |
         The Rotaract Club of Prince George is a community-based club comprised of students and young professionals. As a relatively new club, they are hoping to become more involved in the community through volunteering and expressing a voice on important issues in the community. They believe that with diversity and unity, any issue can be tackled and positive change can be created. Their core values include creating positive relationships and professional skills and taking part in diverse experiences.
 
-        **President**: Britney Szarka, a graduate from UNBC majoring in Biomedical Studies, Britney works at the Prince George Hospice Society as the Volunteer Coordinator and Children's Grief Lead. She sits on the Board of BBBSNBC as Vice President and mentors school age children in their group programming. Growing up in Prince George, she enjoys exploring Northern BC by hiking, canoeing, skiing, biking, and snowshoeing. She recently discovered what makes PG unique is its community, its people’s remarkable support for those in need. 
+        **President**: Britney Szarka, a graduate from UNBC majoring in Biomedical Studies,and now a medical student at UNBC. Britney worked at the YMCA of NBC, where she oversaw program development and frontline delivery of youth programs. She also worked as a behavioural interventionist, where she supported youth on the autism spectrum to find and build upon their strengths. She currently sits on the Board of Directors of BigsNBC as a Vice President while also mentoring youth one-on-one. She recently worked as the Volunteer Coordinator and Family Programs Lead with PGHPCS, where she oversaw all volunteer activities and supported youth, children, and families grieving the loss of a loved one. Her role as President of the Prince George Rotaract Club allows her to work with community-focused and passionate young professionals and students on initiatives that bring positive change to the community.
 
-        **Vice President**: Paige Malmgren
+        
 
         Sponsored by: [Rotary Club of Prince George-Downtown](http://www.clubrunner.ca/Portal/Home.aspx?cid=758), [Rotary Club of Prince George-Nechako](http://www.clubrunner.ca/Portal/Home.aspx?cid=372), and [Rotary Club of Prince George-Yellowhead](http://www.clubrunner.ca/Portal/Home.aspx?cid=760)
     what_we_do: |
