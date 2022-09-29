@@ -10,7 +10,7 @@ club_info:
 
         Regal Rotaract is a club of action and change. Our goal is to lift up our community while also lifting up our Rotary family. We initiated Leaders Connect, a mentorship program currently available to Rotary and Rotaract members within our District 5040. 
 
-        **President**: Danison has over 11 years of experience with an entrepreneurial background. He also runs a charity that specializes in diverting viable food from grocery stores and suppliers to organizations that provide food to at-risk individuals. Danison aims to expand his influence on those who thrive to make a difference in society
+        **President**: Jocelyn Vissia
     what_we_do: |
         Community Fridge
     meetings: |
