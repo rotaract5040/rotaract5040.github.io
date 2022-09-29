@@ -30,7 +30,7 @@ Hi everyone! I've been with Rotary since high school and am thrilled to work as 
 
 **Joanna Shan**, Communications Chair ([Email](mailto:itsjoanna8@gmail.com))
 
-I'm a second year business student at UBC looking to reach out to more people through Rotaract. I enjoy skiing, hiking, and going on midnight ice cream runs with friends. 
+I am currently a business student at UBC and I’ve been with Rotaract for a couple years now. I work in marketing and  enjoy badminton and skating! 
 
 ### Events
 
@@ -38,7 +38,7 @@ I'm a second year business student at UBC looking to reach out to more people th
 
 **Kamil Kanji**, Events Co-Chair ([Email](mailto:kamil7860.kk@gmail.com))
 
-Hey everyone! My name is Kamil, I'm a second year at UBC and I hope to major in Political Science and International Relations. I joined Rotaract last year but have been involved with Rotary for quite a few years through Interact and other stuff. The thing I love most about Rotaract is that it's a platform to meet super fun people who instantly become your friends but are also super passionate about making our communities the best they can be. 
+Hey everyone! My name is Kamil, I'm a third year at UBC and I hope to major in Political Science and International Relations. I joined Rotaract last year but have been involved with Rotary for quite a few years through Interact and other stuff. The thing I love most about Rotaract is that it's a platform to meet super fun people who instantly become your friends but are also super passionate about making our communities the best they can be. 
 
 ![Olivia Li profile](/assets/images/olivia_li.png)
 
