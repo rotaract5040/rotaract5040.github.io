@@ -6,11 +6,11 @@ permalink: /district-team/
 
 ### Disctrict Rotaract Representative (DRR)
 
-![Areej Fatima profile](/assets/images/areej_fatima.png)
+![Julia Halbert profile](/assets/images/Julia Halbert headshot.png)
 
-**Areej Fatima**, Co-DRR ([Email](mailto:areej_f@hotmail.ca))
+**Julia Halbert**, Co-DRR ([Email](mailto:drr@rotaract5040.org))
 
-I love exploring and finding new places to eat. I just graduated from UBC with a Sociology major. My interests include reading, writing and thinking about big life questions while staring at a wall. 
+Julia has studied voice, acting, and dance for over 15 years and has performed classical, theatrical, and contemporary music all over Canada and the United States. Before starting at Early Music Vancouver in June of 2021, Julia worked in sales, marketing and as a freelancer. She is now the Project Coordinator for EMV working on musical projects, large scale fundraisers and podcasts. She spends her free time helping the community as the District Rotaract Representative for Rotaract 5040. 
 
 ![Thomas Miller profile](/assets/images/thomas_miller.png)
 
