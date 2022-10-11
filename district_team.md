@@ -32,6 +32,8 @@ Joanna is studying business at UBC and has been with Rotaract for a couple years
 **Nikhil Ukhande**, Secretary ([Email]
 
 
+
+
 ### Events
 
 ![Kamil Kanji profile](/assets/images/kamil_kanji.png)
