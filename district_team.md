@@ -27,9 +27,10 @@ Ron has been volunteering in his local community since the 1970s. He was the rec
 
 Joanna is studying business at UBC and has been with Rotaract for a couple years. She works in marketing and enjoys badminton and skating! 
 
-![Nikhil Ukhande profile]
+![Nikhil Ukhande profile](/assets/images/Nik.png)
 
-**Nikhil Ukhande**, Secretary ([Email]
+**Nikhil Ukhande**, Secretary ([Email](mailto:drr@rotaract5040.org))
+
 
 
 ### Events
