@@ -6,7 +6,7 @@ permalink: /district-team/
 
 ### Disctrict Rotaract Representative (DRR)
 
-![Julia Halbert profile](/assets/images/Julia Halbert headshot.png.zip)
+![Julia Halbert profile](/assets/images/Julia Halbert headshot2.png)
 
 **Julia Halbert**, DRR ([Email](mailto:drr@rotaract5040.org))
 
