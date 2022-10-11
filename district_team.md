@@ -44,3 +44,4 @@ Kamil is also a student at UBC, studying Political Science and International Rel
 
 **Stephany Laurence**, Events Co-Chair ([Email]( ))
 
+
