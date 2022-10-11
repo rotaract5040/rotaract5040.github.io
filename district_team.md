@@ -33,7 +33,6 @@ Joanna is studying business at UBC and has been with Rotaract for a couple years
 
 
 
-
 ### Events
 
 ![Kamil Kanji profile](/assets/images/kamil_kanji.png)
