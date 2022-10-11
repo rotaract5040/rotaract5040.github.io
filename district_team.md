@@ -21,7 +21,7 @@ Ron has been volunteering in his local community since the 1970s. He was the rec
 
 ### Communications
 
-![Joanna Sh profile](/assets/images/joanna sh 2.jpg)
+![Joanna Sh profile](/assets/images/Joanna Sh 2.jpg)
 
 **Joanna Sh**, Marketing Director ([Email](mailto:drr@rotaract5040.org))
 
