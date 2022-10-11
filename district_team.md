@@ -32,7 +32,6 @@ Joanna is studying business at UBC and has been with Rotaract for a couple years
 **Nikhil Ukhande**, Secretary ([Email]
 
 
-
 ### Events
 
 ![Kamil Kanji profile](/assets/images/kamil_kanji.png)
@@ -41,7 +40,7 @@ Joanna is studying business at UBC and has been with Rotaract for a couple years
 
 Kamil is also a student at UBC, studying Political Science and International Relations. He joined Rotaract last year, but has been involved with Rotary for quite a few years through Interact and other projects. Kamil says that  Rotaract is a great platform for meeting fun people, and making friends, while participating in community projects together.
 
-![Stephany Laurence](/assets/images/Stephany.png) 
+![Stephany Laurence](/assets/images/Stephany.png)
 
 **Stephany Laurence**, Events Co-Chair ([Email]( ))
 
