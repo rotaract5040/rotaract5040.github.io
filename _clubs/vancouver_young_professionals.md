@@ -17,7 +17,7 @@ club_info:
     what_we_do: |
         VYP puts on socials every month from camping retreats to comedy nights and everything I’m between. Our club does multiple blood drives every year and assists with Food on The Corner and Refood. Additionally, we put on fundraisers for the Robert Lee YMCA, The Shoe Box Project, The Greater Vancouver Food Bank, and many other amazing organizations. 
         
-   **Next_Event**:
+        **Next_Event**:
         District Social Event on Thursday December 8 at 7:00 pm.
         Location: 610 Granville Street, buzzer 5302.
         Join us for an evening of gift wrapping and filling boxes for the Shoebox Project for a local Women's Shelter.
