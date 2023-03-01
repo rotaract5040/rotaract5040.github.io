@@ -48,6 +48,8 @@ Kamil is also a student at UBC, studying Political Science and International Rel
 
 ### District Trainer
 
+![Cristina Sanchez profile] (/assets/images/sanchez.png) 
+
 **Cristina Sanchez**, District Trainer ([Email](mailto:cristina.sanchezortega88@gmail.com) )
 
  Cristina is a proud member of the VYP Rotaract Club after moving to Vancouver in 2021 to pursue a Master's Degree in Hospitality Management. She has travelled to 67 countries while working with airline, cruise, and other tourism industries. She is also fluent in three languages: English, French, and Spanish.
