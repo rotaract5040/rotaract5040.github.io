@@ -48,7 +48,7 @@ Kamil is also a student at UBC, studying Political Science and International Rel
 
 ### District Trainer
 
-![Cristina Sanchez profile] (/assets/images/sanchez.png) 
+![Cristina Sanchez profile](/assets/images/sanchez.png) 
 
 **Cristina Sanchez**, District Trainer ([Email](mailto:cristina.sanchezortega88@gmail.com) )
 
