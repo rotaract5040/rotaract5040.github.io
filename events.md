@@ -16,11 +16,11 @@ Details & Registration: **stay tuned!**
 
 Tickets: Free for conference attendees, otherwise $20
 
-Featured artist: Janette King https://janetteking.bandcamp.com/
+Featured artist: Janette King ([link](https://janetteking.bandcamp.com/)
 
 Thank you to our sponsor, Rotary Club of Vancouver
 
 Ticket link:
-https://www.eventbrite.ca/e/district-5040-masquerade-party-tickets-575080690827
+([link](https://www.eventbrite.ca/e/district-5040-masquerade-party-tickets-575080690827)
 
 (/assets/images/district social.jpg)  
