@@ -23,4 +23,4 @@ Thank you to our sponsor, Rotary Club of Vancouver
 Ticket link:
 https://www.eventbrite.ca/e/district-5040-masquerade-party-tickets-575080690827
 
-(/assets/images/332532878_926742681688758_1785740579100843341_n.jpg.png) 
+(/assets/images/district social.jpg)  
