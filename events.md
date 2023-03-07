@@ -41,6 +41,6 @@ Tickets: $99 for Rotaract Members, or free with a club sponsor - this cost inclu
 
 Conference Agenda: [link](https://clubrunner.blob.core.windows.net/00000050003/en-ca/files/page/2023-district-conference/click-here-download-the-2023-rotary-district/5040_DistConf_AgendaDRAFT_18Feb23.docx.pdf) 
 
-[district info](/assets/images/district conference info.jpg)
+[district profile](/assets/images/district conference info.png)
 
-[district info](/assets/images/ticket cost.jpg) 
+[district profile](/assets/images/ticket cost.png) 
