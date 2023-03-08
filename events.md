@@ -22,7 +22,7 @@ Featured artist: Janette King [link](https://janetteking.bandcamp.com/)
 
 Thank you to our sponsor, Rotary Club of Vancouver
 
-Ticket link:
+Tickets:
 [link](https://www.eventbrite.ca/e/district-5040-masquerade-party-tickets-575080690827)
 
 -------------------------------
