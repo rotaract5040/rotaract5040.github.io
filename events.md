@@ -4,6 +4,8 @@ title: Events
 permalink: /events/
 ---
 
+![social profile](/assets/images/district social.jpg)
+
 **Happy Hour at the Rotary 2023 District 5040 Conference**
 
 On April 28th, join us for one evening during the Rotary 2023 District 5040 Conference to enjoy amazing food, trivia, music, photo booths, and more! The jazz group Janette King and Friends will be playing, and grab your masks for an exciting masquerade theme.
@@ -23,7 +25,7 @@ Thank you to our sponsor, Rotary Club of Vancouver
 Ticket link:
 [link](https://www.eventbrite.ca/e/district-5040-masquerade-party-tickets-575080690827)
 
-![social profile](/assets/images/district social.jpg)  
+![district profile](/assets/images/district conference info.png) 
 
 **Rotary 2023 District 5040 Conference**
 
@@ -41,6 +43,4 @@ Tickets: $99 for Rotaract Members, or free with a club sponsor - this cost inclu
 
 Conference Agenda: [link](https://clubrunner.blob.core.windows.net/00000050003/en-ca/files/page/2023-district-conference/click-here-download-the-2023-rotary-district/5040_DistConf_AgendaDRAFT_18Feb23.docx.pdf) 
 
-[district profile](/assets/images/district conference info.png)
-
-[district profile](/assets/images/ticket cost.png) 
+![district profile](/assets/images/ticket cost.png) 
