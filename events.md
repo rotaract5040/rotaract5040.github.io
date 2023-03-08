@@ -27,7 +27,7 @@ Tickets:
 
 -------------------------------
 
-![district profile](/assets/images/district conference info.png) 
+![district profile](/assets/images/ticket cost.png) 
 
 **Rotary 2023 District 5040 Conference**
 
@@ -45,4 +45,4 @@ Tickets: $99 for Rotaract Members, or free with a club sponsor - this cost inclu
 
 Conference Agenda: [link](https://clubrunner.blob.core.windows.net/00000050003/en-ca/files/page/2023-district-conference/click-here-download-the-2023-rotary-district/5040_DistConf_AgendaDRAFT_18Feb23.docx.pdf) 
 
-![district profile](/assets/images/ticket cost.png) 
+![district profile](/assets/images/district conference info.png)
