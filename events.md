@@ -25,6 +25,8 @@ Thank you to our sponsor, Rotary Club of Vancouver
 Ticket link:
 [link](https://www.eventbrite.ca/e/district-5040-masquerade-party-tickets-575080690827)
 
+-------------------------------
+
 ![district profile](/assets/images/district conference info.png) 
 
 **Rotary 2023 District 5040 Conference**
