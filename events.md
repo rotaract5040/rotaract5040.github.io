@@ -10,15 +10,13 @@ permalink: /events/
 
 On April 28th, join us for one evening during the Rotary 2023 District 5040 Conference to enjoy amazing food, trivia, music, photo booths, and more! The jazz group Janette King and Friends will be playing, and grab your masks for an exciting masquerade theme.
 
-Ticket purchase includes two (free) drink tickets!
-
 Date: April 28, 7:30 - 11:30 PM
 
 Location: Pinnacle Hotel Harbourfront, Vancouver
 
 Details & Registration: **stay tuned!**
 
-Tickets: Free for conference attendees, otherwise $20
+Tickets: Free for conference attendees, otherwise $20. Ticket purchase includes two free drink tickets.
 
 Featured artist: Janette King [link](https://janetteking.bandcamp.com/)
 
