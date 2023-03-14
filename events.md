@@ -10,6 +10,8 @@ permalink: /events/
 
 On April 28th, join us for one evening during the Rotary 2023 District 5040 Conference to enjoy amazing food, trivia, music, photo booths, and more! The jazz group Janette King and Friends will be playing, and grab your masks for an exciting masquerade theme.
 
+Ticket purchase includes two (free) drink tickets!
+
 Date: April 28, 7:30 - 11:30 PM
 
 Location: Pinnacle Hotel Harbourfront, Vancouver
@@ -41,7 +43,7 @@ Location: Pinnacle Hotel Harbourfront, Vancouver
 
 Details & Registration: [link](https://rotary5040.org/page/2023-district-conference)
 
-Tickets: $99 for Rotaract Members, or free with a club sponsor - this cost includes the Friday night party!
+Tickets: $99 for Rotaract Members, or free with a club sponsor - this cost includes the Friday night party, as well as 2 drink tickets for the Happy Hour event.
 
 Conference Agenda: [link](https://clubrunner.blob.core.windows.net/00000050003/en-ca/files/page/2023-district-conference/click-here-download-the-2023-rotary-district/5040_DistConf_AgendaDRAFT_18Feb23.docx.pdf) 
 
