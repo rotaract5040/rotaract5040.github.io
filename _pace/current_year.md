@@ -5,54 +5,43 @@ permalink: pace/current-year/
 header_image: /assets/images/EY_2017-08-26_PACE-Trip_N0073.jpg
 header_image_description: Our 2017 PACE group in Victoria
 ---
-### PACE 2021
+### PACE 2023: August 22 – August 31
 
-It certainly is unprecedented times. Due to the nature of the world and uncertainty of travel later this year, the PACE 2021 trip will not be happening this year. We hold onto hope to be able to welcome international Rotaractors in 2022. Stay tuned to our social media at the end of August for a local version of PACE.
-
-
-### PACE 2020: Update
-
-After careful consideration, and the uncertain times ahead, the PACE 2020 trip has been cancelled. We are devastated to not host this year, but out of an abundance of caution and safety we believe it is necessary to postpone this year. Please watch our website in early 2021 for the next trip. Thank you for understanding.
-
-### PACE 2020: August 20 – August 31
-
-The Pacific Canada Experience with Rotaract (PACE) is a roundtrip that fosters global Rotaract ties and provides an authentic experience of Canada’s multiculturalism while facilitating international friendships.
-
-Spearheaded by Rotaract 5040, and in partnership with Rotaract 5020, six international Rotaractors will partake in activities featuring our unique mix of nature, city, and eco-friendly living. Kayaking around Vancouver, hiking the Grouse Grind, touring Victoria (our provincial capital), exploring Whistler Village and volunteering locally with local Rotaractors are just a few of the exciting events planned on this 10-day program.
+The Pacific Canada Experience (PACE) is a round trip experience hosted by Rotaract District 5040 aimed at fostering global ties and intercultural exchange. Six international rotaractors are chosen to take part in an authentic 10-day experience of Western Canada facilitated by rotaractors within the district.  
+Participants can expect various activities and outings featuring a unique mix of nature, city, and eco-friendly living. Designed to cover several places of interest within the province of British Columbia (BC), Rotaract Districts 5040 and 5020,  preivious participants have kayaked around Vancouver,  hiked the Grouse Grind, explored the city of Victoria (our provincial capital), explored Whistler Village, volunteer with local rotaractors and so much more!
 
 We hope you will join us for this exciting adventure into Pacific Canada’s beautiful landscape, cultural diversity, and active lifestyle.
 
-### 2020 Participants
+### 2023 Participants
 
-Six Rotaractors from around the world, ages 19-30, will be invited to join us on a trip of a lifetime with PACE following a successful application process. Participants should arrive by the evening of Thursday, August 20th to be ready to start the program the morning of Friday, August 21st, and depart on Monday, August 31st, 2020.
+Six rotaractors from around the world, ages 19 - 30 will be invited to join us on a trip of a lifetime within BC following a successful application process. Participants should arrive by the evening of Monday 21 August, 2023 ready to start the program the morning of Tuesday 22 August, 2023. The program is set to end on Thursday 31 August, 2023. 
 
-Through sponsorship from Rotaract District 5040 and local Rotary Clubs, PACE will cost each participant $465 CAD. This fee covers 3 meals daily, activity fees, accommodation and transportation. Personal expenses – such as souvenirs, roundtrip airfare, and international health insurance – are not included in the participation fee.
+After sponsorship from Rotary and Rotaract clubs in District 5040, the program fee for each participant to take part is $500 CAD. This fee covers three meals daily, activity fees, accommodation and transportation within the District as the program is running. Costs of your flight to and from Vancouver and any other personal expenses such as souvenirs, international health insurance etc – are not included in the participation fee.
 
-Past year’s plans included visiting the following cities: Vancouver, Burnaby, Richmond, Victoria, Squamish, Whistler, North Vancouver, Coquitlam, and Port Moody.
+In previous years of the program, participants of the program visited the following cities in BC: Vancouver, Burnaby, Richmond, Victoria, Squamish, Whistler, North Vancouver, Coquitlam, and Port Moody.
 
 ### Highlights of Past Program Activities
 
-* Taking a ferry ride to Victoria, British Columbia’s capital, and exploring the city and its history.
-* Hiking the Stawamus Chief in Squamish for a breathtaking view of the coast.
-* Conquering Grouse Mountain step by step up the Grouse Grind Trail in North Vancouver.
-* Visiting Whistler Village, a world-famous ski resort.
-* Tasting local cuisines including Canadian, Indian, Chinese, Japanese, and much more.
-* Touring various sites to learn about the aboriginal heritage of British Columbia.
-* Social awareness: a guided visit of Vancouver’s multi-faceted communities exploring the culture, history, and stories of the west coast.
-* Community Service: volunteer in our communities on established Rotaract service projects with local Rotaractors and leave your mark!
-* Enjoy the ocean and Vancouver from a different angle with a kayak and paddle around Burrard Inlet and Indian Arm.
-* Best of all, experience the unique Rotaract fellowship with Rotaractors of West Coast Canada throughout PACE!
+* Picturesque ferry ride to Victoria-BC’s capital, and exploring the city and its history
+* Hiking the Stawamus Chief in Squamish for a breathtaking view of the coast
+* Conquering Grouse Grind hiking trail step by step in North Vancouver.
+* Tasting cuisines from various cultures
+* Historical tours to learn about the Indigenous and migrant heritage  and cultures within BC
+* Volunteering in our communities with local rotaractors 
+* Kayaking and paddle boarding around the Burrard Inlet and Indian Arm
+* Best of all, experiencing the unique Rotaract fellowship with rotaractors of West Coast Canada 
 
 Check out some photos of past PACE trips on [Facebook](https://www.facebook.com/pg/PACERotaract/photos).
 
 ### Physical Activity Advisory
 
-British Columbia is known for its breathtaking green landscape and outdoor activities. To provide an authentic Pacific Canada experience with PACE, there are two planned hikes, which are physically challenging. All successful applicants must be generally healthy and fit and ideally, exercise on a regular basis. The hikes will elevate heart rates, however, anyone from 5 years old to 80 years old can accomplish it with some fitness, water, hiking shoes or runners, a positive attitude, and perseverance.
+British Columbia is known for its breathtaking outdoor landscape, as it is conveniently nestled between the mountains and ocean. To provide an authentic Pacific Canada experience with PACE, there are two planned hikes, which are physically challenging. All successful applicants must be generally healthy and fit, and ideally, exercise on a regular basis. The hikes will elevate heart rates, however, anyone from 5 years old to 80 years old can accomplish it with some fitness, water, hiking shoes or runners, a positive attitude, and perseverance.
 
-Note: As our intention is to deliver the best Pacific Canada Experience, all successful participants are expected to participate in the scheduled activities to the best of their ability.
+Note: All successful participants are expected to participate in the scheduled activities to the best of their ability and communicate clearly ahead of time if they require an exception.
 
 ### The Pacific Canadian Province of British Columbia
 
-The Pacific Canada region is located by the Coast Mountain Range and Pacific Ocean and offers the perfect balance of city and nature. This metropolitan area is the third largest in the world but is also home to the breathtaking natural scenery of lush green forests, towering mountains and vivid sunsets over the horizon of a deep blue ocean. The Vancouver 2010 Winter Olympic and Paralympic Games have further transformed the area into a vibrant centre with a buzzing nightlife.
+The province of BC is located between the Coast Mountain Range and Pacific Ocean thus offers the perfect balance of city and nature. Home to Canada’s third largest metropolitan region (Metro Vancouver) there is an abundance of breathtaking natural scenery made of lush green forests, towering mountains and vivid sunsets over the horizon of a deep blue ocean. Since hosting the 2010 Winter Olympic and Paralympic Games Metro Vancouver has transformed into a vibrant centre with a buzzing nightlife.
 
-Vancouver has been ranked among one of the most livable cities worldwide for more than a decade. Its ability to maintain this ranking can be attributed to its leadership in green initiatives, eco-friendliness, and sustainability. This multicultural city also caters to a diverse group of people. Often referred to as a “city of neighbourhoods“, Vancouver offers an array of ethnic commercial areas, each having their own distinct character and taste. If you enjoy the outdoors and cultural neighbourhoods, the Pacific Canada region is your gateway to adventure. Come join us for the experience of a lifetime!
+Metro Vancouver is made up of 21 municipalities, one electoral area and one treaty First Nation. The region is multicultural and caters to a diverse group of people. The city of Vancouver is the region’s largest urban centre and it has been highly ranked as one of the most livable cities worldwide time and time again . Often referred to as a “city of neighbourhoods“, Vancouver offers an array of ethnic commercial areas, each having their own distinct character and taste. 
+
