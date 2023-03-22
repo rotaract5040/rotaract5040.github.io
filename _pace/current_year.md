@@ -41,7 +41,7 @@ Note: All successful participants are expected to participate in the scheduled a
 
 ### The Pacific Canadian Province of British Columbia
 
-The province of BC is located between the Coast Mountain Range and Pacific Ocean thus offers the perfect balance of city and nature. Home to Canada’s third largest metropolitan region (Metro Vancouver) there is an abundance of breathtaking natural scenery made of lush green forests, towering mountains and vivid sunsets over the horizon of a deep blue ocean. Since hosting the 2010 Winter Olympic and Paralympic Games Metro Vancouver has transformed into a vibrant centre with a buzzing nightlife.
+The province of BC is located between the Coast Mountain Range and Pacific Ocean thus offers the perfect balance of city and nature. Home to Canada’s third largest metropolitan region (Metro Vancouver) there is an abundance of breathtaking natural scenery made of lush green forests, towering mountains and vivid sunsets over the horizon of a deep blue ocean. Since hosting the 2010 Winter Olympic and Paralympic Games, Metro Vancouver has transformed into a vibrant centre with a buzzing nightlife.
 
 Metro Vancouver is made up of 21 municipalities, one electoral area and one treaty First Nation. The region is multicultural and caters to a diverse group of people. The city of Vancouver is the region’s largest urban centre and it has been highly ranked as one of the most livable cities worldwide time and time again . Often referred to as a “city of neighbourhoods“, Vancouver offers an array of ethnic commercial areas, each having their own distinct character and taste. 
 
