@@ -5,7 +5,8 @@ permalink: /pace/faqs/
 ---
 
 ###### Where does PACE take place?
-PACE participants will get to visit multiple cities on the west coast of Canada; specifically the lower mainland of British Columbia, as well as Vancouver Island. Past trips have included visits to Vancouver, Burnaby, Richmond, Victoria, Squamish, Whistler, North Vancouver, Coquitlam, and Port Moody.
+PACE participants will get to visit multiple cities within the Lower Mainland REgion of British Columbia. Past program activities have taken place within the City of Vancouver , City of Burnaby, City of Richmond, North Vancouver, City of Coquitlam, the Tri-Cities, Victoria (Vancouver Island), Squamish and Whistler. 
+
 
 ###### How many participants will be selected?
 
@@ -17,7 +18,7 @@ Check out our [Past PACE Trips](/pace/past-participants/) page to hear what othe
 
 ###### What is the cost as a participant and what does the cost cover?
 
-The program is heavily financially sponsored and subsidized by Rotary and Rotaract Clubs of District 5040. Participants are required to pay a participant fee of $465 CAD, which will cover the costs of program accommodation, activities, transportation between cities, and three meals daily.
+The program is heavily financially sponsored and subsidized by Rotary and Rotaract Clubs of District 5040. Participants are required to pay a participant fee of $500 CAD, which will cover the costs of program accommodation, activities, transportation between cities, and three meals daily.
 
 ###### What costs are not included in the participant fee?
 
@@ -29,7 +30,7 @@ See [Apply for PACE](/pace/apply/).
 
 ###### What day should I arrive and depart Vancouver?
 
-Participants should arrive on Thursday, August 20, by the evening, to be ready to begin the program early the next day. The program ends on Monday, August 31, 2020.
+Participants should arrive the evening of Monday 21 August ready to start the program the morning of Tuesday 22 August. The program is set to end on Thursday 31 August, 2023. 
 
 ###### How do I know if I need a visa to visit Canada?
 
@@ -37,7 +38,7 @@ Visit [www.cig.gc.ca/english/visit/visas.asp](www.cig.gc.ca/english/visit/visas.
 
 ###### What if I want to arrive earlier or stay later than the PACE dates?
 
-You are definitely welcome to do so, however, please bear in mind you have to plan your own time outside of the program days. We are happy to assist you with suggestions.
+You are welcome to arrive early, however, please bear in mind you have to plan your own time and activities prior to the official start of the program. We are happy to assist you with suggestions.
 
 ###### What kind of insurance do I need?
 
