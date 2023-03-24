@@ -4,7 +4,7 @@ title: Past PACE Trips
 permalink: /pace/past-participants/
 ---
 
-Check out our [Facebook](https://www.facebook.com/PACERotaract/) for more photos. Please Like and Follow us for content!
+Check out our [Facebook](https://www.facebook.com/PACERotaract/photos_albums) for more photos. Please Like and Follow us for content!
 
 ### 2019 Participants (Aug 22 - Sept 2, 2019)
 
