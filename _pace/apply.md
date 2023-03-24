@@ -46,4 +46,5 @@ A 50% refund of the $500 participation fee (minus PayPal processing fee) will on
 
 **The application for PACE 2023 will open April 1.**
 
+[link](https://drive.google.com/drive/u/0/my-drive) 
 Click on the link, and then download PDF from top right. PDF files require Adobe Acrobat/Reader or alternative PDF reader software to open.
