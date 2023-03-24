@@ -5,7 +5,7 @@ permalink: /pace/faqs/
 ---
 
 ###### Where does PACE take place?
-PACE participants will get to visit multiple cities within the Lower Mainland REgion of British Columbia. Past program activities have taken place within the City of Vancouver , City of Burnaby, City of Richmond, North Vancouver, City of Coquitlam, the Tri-Cities, Victoria (Vancouver Island), Squamish and Whistler. 
+PACE participants will get to visit multiple cities within the Lower Mainland Region of British Columbia. Past program activities have taken place within the City of Vancouver , City of Burnaby, City of Richmond, North Vancouver, City of Coquitlam, the Tri-Cities, Victoria (Vancouver Island), Squamish and Whistler. 
 
 
 ###### How many participants will be selected?
@@ -34,7 +34,7 @@ Participants should arrive the evening of Monday 21 August ready to start the pr
 
 ###### How do I know if I need a visa to visit Canada?
 
-Visit [www.cig.gc.ca/english/visit/visas.asp](www.cig.gc.ca/english/visit/visas.asp) to see if you need a Temporary Resident Visa (TRV) to enter Canada. You can also find out the processing times for visa applications [here](http://www.cic.gc.ca/english/information/times/temp/visitors.asp).
+Visit Refugees, Immigration, and Citizenship Canada (IRCC) to see if you need a Temporary Resident Visa (TRV) to enter Canada [www.cig.gc.ca/english/visit/visas.asp](https://www.cic.gc.ca/english/visit/visas.asp ). You can also find out the processing times for visa applications [here](http://www.cic.gc.ca/english/information/times/temp/visitors.asp).
 
 ###### What if I want to arrive earlier or stay later than the PACE dates?
 
