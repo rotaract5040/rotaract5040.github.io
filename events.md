@@ -16,7 +16,7 @@ Location: Pinnacle Hotel Harbourfront, Vancouver
 
 Details & Registration: **stay tuned!**
 
-Tickets: Free for conference attendees, otherwise $20. Ticket purchase includes two free drink tickets.
+Tickets: Free for conference attendees, otherwise $20.
 
 Featured artist: Janette King [link](https://janetteking.bandcamp.com/)
 
@@ -41,7 +41,7 @@ Location: Pinnacle Hotel Harbourfront, Vancouver
 
 Details & Registration: [link](https://rotary5040.org/page/2023-district-conference)
 
-Tickets: $99 for Rotaract Members, or free with a club sponsor - this cost includes the Friday night party, as well as 2 drink tickets for the Happy Hour event.
+Tickets: $99 for Rotaract Members, or free with a club sponsor (which also includes the Friday night party).
 
 Conference Agenda: [link](https://clubrunner.blob.core.windows.net/00000050003/en-ca/files/page/2023-district-conference/click-here-download-the-2023-rotary-district/5040_DistConf_AgendaDRAFT_18Feb23.docx.pdf) 
 
