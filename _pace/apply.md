@@ -11,7 +11,7 @@ To qualify for PACE, an applicant must be actively involved in their Rotaract cl
 
 * Ability to enter Canada with your passport or obtain a Canadian visa (for more information, check out our FAQs page)
 
-* Possess a passport valid for 6 months following the last day of the trip (i.e. March 1, 2024
+* Possess a passport valid for 6 months following the last day of the trip (i.e. March 1, 2024)
 
 * Acquire international travel medical insurance. Prior to your arrival in Canada, you will be required to submit proof of valid international medical insurance
 
