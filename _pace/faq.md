@@ -30,7 +30,7 @@ See [Apply for PACE](/pace/apply/).
 
 ###### What day should I arrive and depart Vancouver?
 
-Participants should arrive the evening of Monday 21 August ready to start the program the morning of Tuesday 22 August. The program is set to end on Thursday 31 August, 2023. 
+Participants should arrive the evening of Wednesday 23 August ready to start the program the morning of Thursday 24 August. The program is set to end on Saturday 2 September, 2023. 
 
 ###### How do I know if I need a visa to visit Canada?
 
