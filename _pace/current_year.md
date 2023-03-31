@@ -5,7 +5,7 @@ permalink: pace/current-year/
 header_image: /assets/images/EY_2017-08-26_PACE-Trip_N0073.jpg
 header_image_description: Our 2017 PACE group in Victoria
 ---
-### PACE 2023: August 22 – August 31
+### PACE 2023: August 24 – September 2
 
 The Pacific Canada Experience (PACE) is a round trip experience hosted by Rotaract District 5040 aimed at fostering global ties and intercultural exchange. Six international rotaractors are chosen to take part in an authentic 10-day experience of Western Canada facilitated by rotaractors within the district.  
 Participants can expect various activities and outings featuring a unique mix of nature, city, and eco-friendly living. Designed to cover several places of interest within the province of British Columbia (BC), Rotaract Districts 5040 and 5020,  preivious participants have kayaked around Vancouver,  hiked the Grouse Grind, explored the city of Victoria (our provincial capital), explored Whistler Village, volunteer with local rotaractors and so much more!
@@ -14,7 +14,7 @@ We hope you will join us for this exciting adventure into Pacific Canada’s bea
 
 ### 2023 Participants
 
-Six rotaractors from around the world, ages 19 - 30 will be invited to join us on a trip of a lifetime within BC following a successful application process. Participants should arrive by the evening of Monday 21 August, 2023 ready to start the program the morning of Tuesday 22 August, 2023. The program is set to end on Thursday 31 August, 2023. 
+Six rotaractors from around the world, ages 19 - 30 will be invited to join us on a trip of a lifetime within BC following a successful application process. Participants should arrive by the evening of Wednesday 23 August, 2023 ready to start the program the morning of Thursday 24 August, 2023. The program is set to end on Saturday 2 September, 2023. 
 
 After sponsorship from Rotary and Rotaract clubs in District 5040, the program fee for each participant to take part is $500 CAD. This fee covers three meals daily, activity fees, accommodation and transportation within the District as the program is running. Costs of your flight to and from Vancouver and any other personal expenses such as souvenirs, international health insurance etc – are not included in the participation fee.
 
