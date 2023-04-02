@@ -48,3 +48,5 @@ A 50% refund of the $500 participation fee (minus PayPal processing fee) will on
 
 Click on the link, and then download PDF from top right. PDF files require Adobe Acrobat/Reader or alternative PDF reader software to open.
 [link]({% link /assets/files/2023 PACE application form (1).pdf %}) 
+
+
