@@ -11,7 +11,7 @@ To qualify for PACE, an applicant must be actively involved in their Rotaract cl
 
 * Ability to enter Canada with your passport or obtain a Canadian visa (for more information, check out our FAQs page)
 
-* Possess a passport valid for 6 months following the last day of the trip (i.e. March 1, 2024)
+* Possess a passport valid for 6 months following the last day of the trip (i.e. March 1, 2024).
 
 * Acquire international travel medical insurance. Prior to your arrival in Canada, you will be required to submit proof of valid international medical insurance
 
@@ -47,4 +47,4 @@ A 50% refund of the $500 participation fee (minus PayPal processing fee) will on
 **The application for PACE 2023 will open April 1.**
 
 Click on the link, and then download PDF from top right. PDF files require Adobe Acrobat/Reader or alternative PDF reader software to open.
-[link]({% link /assets/files/2023_pace_application_form.pdf (1) %}) 
+[link]({% link /assets/files/2023 PACE application form (1).pdf %}) 
