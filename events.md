@@ -14,17 +14,16 @@ Date: April 28, 7:30 - 11:30 PM
 
 Location: Pinnacle Hotel Harbourfront, Vancouver
 
-Details & Registration: **stay tuned!**
+Tickets:
+[link](https://www.eventbrite.ca/e/district-5040-masquerade-party-tickets-575080690827)
+Please note: Rotaract attendees need to sign up on the same link as ticket purchase*
+Don't forget to dress up for the Masquerade theme! There are prizes for the best costume.
 
-Tickets: Free for conference attendees, otherwise $20.
+Tickets: Free for conference attendees, otherwise $10.
 
 Featured artist: Janette King [link](https://janetteking.bandcamp.com/)
 
 Thank you to our sponsor, Rotary Club of Vancouver
-
-Tickets:
-[link](https://www.eventbrite.ca/e/district-5040-masquerade-party-tickets-575080690827)
-Please note: Rotaract attendees need to sign up on the same link as ticket purchase*
 
 -------------------------------
 
