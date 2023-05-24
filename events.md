@@ -4,45 +4,25 @@ title: Events
 permalink: /events/
 ---
 
-![social profile](/assets/images/district social.jpg)
+![social profile](/assets/images/installation dinner.jpg)
 
-**Happy Hour at the Rotary 2023 District 5040 Conference**
+**2023 Installation Dinner**
 
-On April 28th, join us for one evening during the Rotary 2023 District 5040 Conference to enjoy amazing food, trivia, music, photo booths, and more! The jazz group Janette King and Friends will be playing, and grab your masks for an exciting masquerade theme. There will also be prizes for the best costume.
+On June 25, join us for our annual Installation Dinner. This is an evening of fun, games, and delicious food. We will say goodbye to our current district leaders, club presidents and vice presidents, and install the new leaders. Register on the google link below.
 
-Date: April 28, 7:30 - 11:30 PM
+Theme: International cultural.
 
-Location: Pinnacle Hotel Harbourfront, Vancouver
+Dress Code: Cultural dress or business formal.
 
-Tickets:
-[link](https://www.eventbrite.ca/e/district-5040-masquerade-party-tickets-575080690827)
-Please note: Rotaract attendees need to sign up on the same link as ticket purchase*
-Don't forget to dress up for the Masquerade theme! There are prizes for the best costume.
+Menu: potluck. Please bring a dish from your culture to share and enjoy.
 
-Tickets: Free for conference attendees, otherwise $10.
+Date: Sunday June 25, 2023
 
-Featured artist: Janette King [link](https://janetteking.bandcamp.com/)
+Time: 6:00 pm to 9:00 pm
 
-Thank you to our sponsor, Rotary Club of Vancouver
+Location: Strathcona Community Center. 601 Keefer Street Vancouver
 
--------------------------------
+Registration:
+[link]([https://docs.google.com/forms/d/e/1FAIpQLSdOLpOdvHloAVgx2L-rwyV_YEN4Z5lC5Zhy_ey6nMp_m1tGdA/viewform?usp=sf_link)
 
-![district profile](/assets/images/ticket cost.png) 
 
-**Rotary 2023 District 5040 Conference**
-
-Join us at the Rotary 2023 District 5040 Conference! Over three days, connect and learn with Rotarians and other clubs, and have fun in a fast-paced, energetic conference that will challenge your expectations!
-
-Learn more about our four key themes: Water, Maternal Health, Environment, and Diversity, Equity & Inclusion, to build momentum in your club.
-
-Dates: April 28 - 30
-
-Location: Pinnacle Hotel Harbourfront, Vancouver
-
-Details & Registration: [link](https://rotary5040.org/page/2023-district-conference)
-
-Tickets: $99 for Rotaract Members, or free with a club sponsor (which also includes the Friday night party).
-
-Conference Agenda: [link](https://clubrunner.blob.core.windows.net/00000050003/en-ca/files/page/2023-district-conference/click-here-download-the-2023-rotary-district/5040_DistConf_AgendaDRAFT_18Feb23.docx.pdf) 
-
-![district profile](/assets/images/district conference info.png)
