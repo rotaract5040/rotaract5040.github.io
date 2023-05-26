@@ -8,9 +8,9 @@ permalink: /events/
 
 **2023 Installation Dinner**
 
-On June 25, join us for our annual Installation Dinner. This is an evening of fun, games, and delicious food. We will say goodbye to our current district leaders, club presidents and vice presidents, and install the new leaders. Register on the google link below.
+On June 25, join us for our annual Installation Dinner. This is an evening of fun, games, and delicious food. We will say goodbye to our current district leaders, club presidents and vice presidents, and install the new leaders. Awards and distinctions will also be presented. Register on the google link below.
 
-Theme: International cultural.
+Theme: Celebrating our cultures
 
 Dress Code: Cultural dress or business formal.
 
