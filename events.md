@@ -4,7 +4,7 @@ title: Events
 permalink: /events/
 ---
 
-![social profile](/assets/images/installation dinner.jpg)
+![social profile](/assets/images/installation dinner.png)
 
 **2023 Installation Dinner**
 
