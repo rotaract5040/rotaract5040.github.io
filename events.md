@@ -23,6 +23,6 @@ Time: 6:00 pm to 9:00 pm
 Location: Strathcona Community Center. 601 Keefer Street Vancouver
 
 Registration:
-[link]([https://docs.google.com/forms/d/e/1FAIpQLSdOLpOdvHloAVgx2L-rwyV_YEN4Z5lC5Zhy_ey6nMp_m1tGdA/viewform?usp=sf_link) 
+[link](https://docs.google.com/forms/d/e/1FAIpQLSdOLpOdvHloAVgx2L-rwyV_YEN4Z5lC5Zhy_ey6nMp_m1tGdA/viewform?usp=sf_link) 
 
 
