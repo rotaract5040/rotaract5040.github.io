@@ -22,7 +22,6 @@ Ron has been volunteering in his local community since the 1970s. He was the rec
 
 **Communication Director Vacancy**, Marketing Director ([Email](mailto:drr@rotaract5040.org))
 
-![Nikhil Ukhande profile](/assets/images/Nik.png)
 
 **Secretary Vacancy**, ([Email](mailto:drr@rotaract5040.org))
 
@@ -31,8 +30,6 @@ Ron has been volunteering in his local community since the 1970s. He was the rec
 **Event Coordinator Vacancy**, ([Email](mailto:drr@rotaract5040.org))
 
 ### District Trainer
-
-![Cristina Sanchez profile](/assets/images/sanchez.png) 
 
 **District Trainer Vacancy**
 
