@@ -27,7 +27,7 @@ Ron has been volunteering in his local community since the 1970s. He was the rec
 
 ### Events
 
-![Stephany Laurence profile](/assets/images/stephany.png)
+![Stephany Laurence profile](/assets/images/Stephany.png)
 
 **Stephany Laurence**, Event Director ([Email](mailto:drr@rotaract5040.org))
 
