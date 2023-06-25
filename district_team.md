@@ -27,7 +27,9 @@ Ron has been volunteering in his local community since the 1970s. He was the rec
 
 ### Events
 
-**Event Coordinator Vacancy**, ([Email](mailto:drr@rotaract5040.org))
+![Stephany Laurence profile](/assets/images/stephany.png)
+
+**Stephany Laurence**, Event Director ([Email](mailto:drr@rotaract5040.org))
 
 ### District Trainer
 
